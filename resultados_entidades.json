@@ -1,0 +1,1000 @@
+[
+    {
+        "id": 1,
+        "texto": "ATESTADO Atesto para os devidos fins que FLAVIO AUGUSTO BERNASKI DA SILVA compareceu para atendimento psicológico no dia 05/04/2023 das 11h30 às 12:00.",
+        "entidades": {
+            "NOME_PACIENTE": [],
+            "CID": [],
+            "DATA": [
+                "05/04/2023"
+            ],
+            "TIPO_DOC": [
+                "ATESTADO"
+            ],
+            "TEMPO_AFASTAMENTO": [],
+            "CRM": [],
+            "HORARIO_INICIO_ATENDIMENTO": [
+                "11h30"
+            ],
+            "HORARIO_FIM_ATENDIMENTO": [
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "texto": "DECLARAÇÃO Declaro para os devidos fins que o(a) Sr.(a), VITÓRIA BRENDA LUSTOSA SILVA, compareceu a este serviço, como acompanhante do paciente, YARA LUSTOSA DOS SANTOS, no período de 22/05/2024. Maringá, 22 de maio de 2024. Dra. Gina Bressan Schiavon Masson (CRM 21548)",
+        "entidades": {
+            "NOME_PACIENTE": [
+                "Gina Bressan Schiavon Masson"
+            ],
+            "CID": [],
+            "DATA": [
+                "22 de maio de 2024"
+            ],
+            "TIPO_DOC": [
+                "DECLARAÇÃO"
+            ],
+            "TEMPO_AFASTAMENTO": [],
+            "CRM": [
+                "CRM 21548"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [],
+            "HORARIO_FIM_ATENDIMENTO": []
+        }
+    },
+    {
+        "id": 3,
+        "texto": "ATESTADO Atesto para os devidos fins que ANDERSON BISPO DOS SANTOS, permaneceu no hospital das 07h43 às 11:35 para consulta médica e realização de exames. Belo Horizonte, Quarta-Feira, 01 de Fevereiro de 2023 CRM-MG - 85985",
+        "entidades": {
+            "NOME_PACIENTE": [],
+            "CID": [],
+            "DATA": [
+                "01 de Fevereiro de 2023"
+            ],
+            "TIPO_DOC": [
+                "ATESTADO"
+            ],
+            "TEMPO_AFASTAMENTO": [],
+            "CRM": [
+                "CRM-MG - 85985"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [
+                "07h43"
+            ],
+            "HORARIO_FIM_ATENDIMENTO": [
+                "11:35"
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "texto": "ATESTADO Atesto para os devidos fins que MARIANA SILVA SAULO, portadora do CPF 123.456.789-10, esteve sob meus cuidados médicos nesta unidade de saúde em 07/07/2025. No período das 10:15 às 11h45. Após avaliação clínica, foi diagnosticada com Dor lombar baixa (CID: M54.5). Recomenda-se o afastamento de suas atividades laborais por 3 (três) dias, a partir desta data, para recuperação e repouso.\nPalmares, 7 de julho de 2025. Dr. Ricardo Alves Pereira\nCRM-PE 123456",
+        "entidades": {
+            "NOME_PACIENTE": [],
+            "CID": [
+                "M54.5"
+            ],
+            "DATA": [
+                "07/07/2025"
+            ],
+            "TIPO_DOC": [
+                "ATESTADO"
+            ],
+            "TEMPO_AFASTAMENTO": [
+                "3 (três) dias"
+            ],
+            "CRM": [
+                "CRM-PE 123456"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [
+                "10:15"
+            ],
+            "HORARIO_FIM_ATENDIMENTO": []
+        }
+    },
+    {
+        "id": 5,
+        "texto": "ATESTADO Atesto que o sr(a) PAULO ANDRÉ FERNANDES compareceu para atendimento psicológico no dia 15/10/2025 das 08h30 às 11:00.",
+        "entidades": {
+            "NOME_PACIENTE": [],
+            "CID": [],
+            "DATA": [
+                "15/10/2025"
+            ],
+            "TIPO_DOC": [
+                "ATESTADO"
+            ],
+            "TEMPO_AFASTAMENTO": [],
+            "CRM": [],
+            "HORARIO_INICIO_ATENDIMENTO": [
+                "08h30"
+            ],
+            "HORARIO_FIM_ATENDIMENTO": [
+                "11:00"
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "texto": "ATESTADO MÉDICO Declaro que o paciente CARLOS EDUARDO MENDONÇA esteve em consulta no dia 12/08/2024 das 14:20 às 15:30. Diagnosticado com pneumonia (CID J18.9). Recomendado repouso por 7 dias. CRM: 34876.",
+        "entidades": {
+            "NOME_PACIENTE": [],
+            "CID": [
+                "J18.9"
+            ],
+            "DATA": [
+                "12/08/2024"
+            ],
+            "TIPO_DOC": [
+                "ATESTADO MÉDICO"
+            ],
+            "TEMPO_AFASTAMENTO": [
+                "7 dias"
+            ],
+            "CRM": [
+                "CRM: 34876"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [
+                "14:20"
+            ],
+            "HORARIO_FIM_ATENDIMENTO": [
+                "15:30"
+            ]
+        }
+    },
+    {
+        "id": 7,
+        "texto": "DECLARAÇÃO Atesto para fins legais que MARIA FERNANDA OLIVEIRA compareceu para tratamento de enxaqueca crônica (CID G43.909) em 30/09/2024 no horário das 09 00 às 10 15. Dr. Roberto Silva - CRM/SP 56789.",
+        "entidades": {
+            "NOME_PACIENTE": [],
+            "CID": [
+                "G43.909"
+            ],
+            "DATA": [
+                "30/09/2024"
+            ],
+            "TIPO_DOC": [
+                "DECLARAÇÃO"
+            ],
+            "TEMPO_AFASTAMENTO": [
+                "enxaqueca crônica",
+                "09 00 às"
+            ],
+            "CRM": [
+                "CRM/"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [],
+            "HORARIO_FIM_ATENDIMENTO": []
+        }
+    },
+    {
+        "id": 8,
+        "texto": "ATESTADO Confirmo que LUCAS RODRIGUES SANTOS foi atendido em nossa clínica em 15/11/2024 entre 08 45 e 10 30. Diagnosticado com diabetes mellitus tipo 2 (CID E11.9). Necessário afastamento por 10 dias. CRM-MG 12345.",
+        "entidades": {
+            "NOME_PACIENTE": [
+                "LUCAS RODRIGUES SANTOS"
+            ],
+            "CID": [
+                "E11.9"
+            ],
+            "DATA": [
+                "15/11/2024"
+            ],
+            "TIPO_DOC": [
+                "ATESTADO"
+            ],
+            "TEMPO_AFASTAMENTO": [
+                "45 e 10 30",
+                "2 (CID E11.9)",
+                "10 dias"
+            ],
+            "CRM": [
+                "CRM-MG 12345"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [],
+            "HORARIO_FIM_ATENDIMENTO": []
+        }
+    },
+    {
+        "id": 9,
+        "texto": "RELATÓRIO MÉDICO Declaro que ANA BEATRIZ COSTA esteve sob meus cuidados em 03/12/2024 das 13 15 às 14 45. Diagnosticada com transtorno de ansiedade generalizada (CID F41.1). Indicação de acompanhamento psicológico semanal. CRM 98765.",
+        "entidades": {
+            "NOME_PACIENTE": [
+                "ANA BEATRIZ COSTA"
+            ],
+            "CID": [
+                "F41.1"
+            ],
+            "DATA": [
+                "03/12/2024"
+            ],
+            "TIPO_DOC": [
+                "RELATÓRIO MÉDICO"
+            ],
+            "TEMPO_AFASTAMENTO": [
+                "13 15 às",
+                "ansiedade generalizada"
+            ],
+            "CRM": [
+                "CRM 98765"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [],
+            "HORARIO_FIM_ATENDIMENTO": []
+        }
+    },
+    {
+        "id": 10,
+        "texto": "ATESTADO Atesto que RAFAEL PEREIRA LIMA compareceu para consulta de rotina no dia 22/01/2025 das 11 00 às 12 20. Diagnosticado com hipertensão essencial (CID I10). Recomendado controle periódico. CRM/RS 54321.",
+        "entidades": {
+            "NOME_PACIENTE": [],
+            "CID": [
+                "I10"
+            ],
+            "DATA": [
+                "22/01/2025"
+            ],
+            "TIPO_DOC": [
+                "ATESTADO"
+            ],
+            "TEMPO_AFASTAMENTO": [
+                "11 00 às"
+            ],
+            "CRM": [
+                "CRM/"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [],
+            "HORARIO_FIM_ATENDIMENTO": []
+        }
+    },
+    {
+        "id": 11,
+        "texto": "DECLARAÇÃO Confirmo que JULIANA SOUZA ALMEIDA foi atendida em 05/02/2025 no período das 16 30 às 17 45. Diagnosticada com asma brônquica não alérgica (CID J45.909). Necessário uso contínuo de medicação. CRM 23456.",
+        "entidades": {
+            "NOME_PACIENTE": [
+                "JULIANA SOUZA ALMEIDA"
+            ],
+            "CID": [
+                "J45.909"
+            ],
+            "DATA": [
+                "05/02/2025"
+            ],
+            "TIPO_DOC": [
+                "DECLARAÇÃO"
+            ],
+            "TEMPO_AFASTAMENTO": [
+                "16 30 às"
+            ],
+            "CRM": [
+                "CRM 23456"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [],
+            "HORARIO_FIM_ATENDIMENTO": []
+        }
+    },
+    {
+        "id": 12,
+        "texto": "ATESTADO MÉDICO Declaro que PEDRO HENRIQUE BARBOSA esteve em tratamento no dia 18/03/2025 das 10 00 às 11 15. Diagnosticado com artrite reumatoide (CID M06.9). Afastamento recomendado por 15 dias. CRM 87654.",
+        "entidades": {
+            "NOME_PACIENTE": [],
+            "CID": [
+                "M06.9"
+            ],
+            "DATA": [
+                "18/03/2025"
+            ],
+            "TIPO_DOC": [
+                "ATESTADO MÉDICO"
+            ],
+            "TEMPO_AFASTAMENTO": [
+                "10 00 às"
+            ],
+            "CRM": [
+                "CRM 87654"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [],
+            "HORARIO_FIM_ATENDIMENTO": []
+        }
+    },
+    {
+        "id": 13,
+        "texto": "RELATÓRIO Confirmo que FERNANDA LIMA COSTA compareceu para avaliação em 09/04/2025 no horário das 14 00 às 15 30. Diagnosticada com depressão recorrente (CID F33.9). Indicado tratamento psicoterapêutico. CRM/SP 34567.",
+        "entidades": {
+            "NOME_PACIENTE": [],
+            "CID": [
+                "F33.9"
+            ],
+            "DATA": [
+                "09/04/2025"
+            ],
+            "TIPO_DOC": [
+                "RELATÓRIO"
+            ],
+            "TEMPO_AFASTAMENTO": [
+                "14 00 às",
+                "recorrente (CID F33.9)"
+            ],
+            "CRM": [
+                "CRM/"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [],
+            "HORARIO_FIM_ATENDIMENTO": []
+        }
+    },
+    {
+        "id": 14,
+        "texto": "ATESTADO Atesto que GUSTAVO OLIVEIRA SANTOS foi atendido em nossa unidade em 25/05/2025 das 09 30 às 11 00. Diagnosticado com gastrite aguda (CID K29.0). Recomendado dieta e repouso por 5 dias. CRM 76543.",
+        "entidades": {
+            "NOME_PACIENTE": [
+                "GUSTAVO OLIVEIRA SANTOS"
+            ],
+            "CID": [
+                "K29.0"
+            ],
+            "DATA": [
+                "25/05/2025"
+            ],
+            "TIPO_DOC": [
+                "ATESTADO"
+            ],
+            "TEMPO_AFASTAMENTO": [
+                "09 30 às",
+                "5 dias"
+            ],
+            "CRM": [
+                "CRM 76543"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [],
+            "HORARIO_FIM_ATENDIMENTO": []
+        }
+    },
+    {
+        "id": 15,
+        "texto": "DECLARAÇÃO MÉDICA Declaro que PATRÍCIA RIBEIRO MARTINS esteve sob cuidados em 07/06/2025 no período das 15 45 às 17 10. Diagnosticada com hipotireoidismo (CID E03.9). Necessário acompanhamento endocrinológico. CRM 45678.",
+        "entidades": {
+            "NOME_PACIENTE": [
+                "PATRÍCIA RIBEIRO MARTINS"
+            ],
+            "CID": [
+                "E03.9"
+            ],
+            "DATA": [
+                "07/06/2025"
+            ],
+            "TIPO_DOC": [
+                "DECLARAÇÃO MÉDICA"
+            ],
+            "TEMPO_AFASTAMENTO": [
+                "15 45 às"
+            ],
+            "CRM": [
+                "CRM 45678"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [],
+            "HORARIO_FIM_ATENDIMENTO": []
+        }
+    },
+    {
+        "id": 16,
+        "texto": "DECLARAÇÃO Atesto para os devidos fins que PAULO AUGUSTO PEREIRA compareceu para atendimento psicológico no dia 05/05/2024 das 11:30 às 12:00, e precisará se afastar por 30 dias, devido ao CID:M54.5",
+        "entidades": {
+            "NOME_PACIENTE": [],
+            "CID": [
+                "M54.5"
+            ],
+            "DATA": [
+                "05/05/2024"
+            ],
+            "TIPO_DOC": [
+                "DECLARAÇÃO"
+            ],
+            "TEMPO_AFASTAMENTO": [
+                "30 dias"
+            ],
+            "CRM": [],
+            "HORARIO_INICIO_ATENDIMENTO": [
+                "11:30"
+            ],
+            "HORARIO_FIM_ATENDIMENTO": [
+                "12:00"
+            ]
+        }
+    },
+    {
+        "id": 17,
+        "texto": "DECLARAÇÃO Declaro que LUCAS OLIVEIRA ROCHA esteve em atendimento nesta clínica no dia 15 de setembro de 2025, durante o período da tarde (entre 14:00 e 15:30). Diagnosticado com Sinusite aguda (CID- J01.9). Recomendado afastamento das atividades por 1 dia. CRM/SP 87654.",
+        "entidades": {
+            "NOME_PACIENTE": [
+                "LUCAS OLIVEIRA ROCHA"
+            ],
+            "CID": [
+                "J01.9"
+            ],
+            "DATA": [
+                "15 de setembro de 2025"
+            ],
+            "TIPO_DOC": [
+                "DECLARAÇÃO"
+            ],
+            "TEMPO_AFASTAMENTO": [
+                "período da tarde",
+                "1 dia"
+            ],
+            "CRM": [
+                "CRM/"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [
+                "14:00"
+            ],
+            "HORARIO_FIM_ATENDIMENTO": [
+                "15:30"
+            ]
+        }
+    },
+    {
+        "id": 18,
+        "texto": "RELATÓRIO MÉDICO Consta que FERNANDA COSTA LIMA compareceu à emergência em 30/11/2024 às 22:40, permanecendo até 00:15 (período da noite). Diagnóstico: Gastroenterite (CID_ A09). Necessário afastamento por (5 dias). CRM 44567/PR.",
+        "entidades": {
+            "NOME_PACIENTE": [],
+            "CID": [
+                "A09"
+            ],
+            "DATA": [
+                "30/11/2024"
+            ],
+            "TIPO_DOC": [
+                "RELATÓRIO MÉDICO"
+            ],
+            "TEMPO_AFASTAMENTO": [
+                "(período da noite",
+                "(5 dias)"
+            ],
+            "CRM": [
+                "CRM 44567"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [
+                "22:40",
+                "00:15"
+            ],
+            "HORARIO_FIM_ATENDIMENTO": []
+        }
+    },
+    {
+        "id": 19,
+        "texto": "ATESTADO Atesto que RAFAEL SANTOS DIAS (CPF 987.654.321-00) foi avaliado em 3 de Abril de 2025 das 08:00 às 09:20. Apresenta Quadro de Amigdalite (CID: J03.9). Indica-se repouso domiciliar por um dia. Belo Horizonte, 3 de abril de 2025. Dra. Juliana Moraes | CRM-MG 11223.",
+        "entidades": {
+            "NOME_PACIENTE": [],
+            "CID": [
+                "J03.9"
+            ],
+            "DATA": [
+                "3 de Abril de 2025"
+            ],
+            "TIPO_DOC": [
+                "ATESTADO"
+            ],
+            "TEMPO_AFASTAMENTO": [
+                "Amigdalite (CID:"
+            ],
+            "CRM": [
+                "CRM-MG 11223"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [
+                "08:00"
+            ],
+            "HORARIO_FIM_ATENDIMENTO": [
+                "09:20"
+            ]
+        }
+    },
+    {
+        "id": 20,
+        "texto": "RECEITUÁRIO MÉDICO Confirmo que PATRÍCIA NUNES FONTES realizou consulta em 20/10/2025 no período da manhã (07:30 às 08:45). Diagnóstico: Transtorno de ansiedade (cid- F41.1). Requer afastamento laboral por 15 dias para tratamento. CRM-RJ 55443.",
+        "entidades": {
+            "NOME_PACIENTE": [],
+            "CID": [
+                "F41.1"
+            ],
+            "DATA": [
+                "20/10/2025"
+            ],
+            "TIPO_DOC": [
+                "RECEITUÁRIO MÉDICO"
+            ],
+            "TEMPO_AFASTAMENTO": [
+                "manhã (07:30 às",
+                "ansiedade (cid- F41.1)"
+            ],
+            "CRM": [
+                "CRM-RJ 55443"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [
+                "período da manhã",
+                "07:30"
+            ],
+            "HORARIO_FIM_ATENDIMENTO": [
+                "08:45"
+            ]
+        }
+    },
+    {
+        "id": 21,
+        "texto": "ATESTADO Declaro que GUSTAVO HENRIQUE MARTINS esteve sob cuidados médicos em 05/Jan/2025 entre 16:10 e 17:30. Diagnosticado com Lombociatalgia (CID_ M54.4). Recomenda-se afastamento por 8 dias, conforme protocolo clínico. Dr. Tiago Albuquerque | CRM: 99876/BA.",
+        "entidades": {
+            "NOME_PACIENTE": [
+                "GUSTAVO HENRIQUE MARTINS"
+            ],
+            "CID": [
+                "M54.4"
+            ],
+            "DATA": [
+                "05/Jan/2025"
+            ],
+            "TIPO_DOC": [
+                "ATESTADO"
+            ],
+            "TEMPO_AFASTAMENTO": [
+                "8 dias"
+            ],
+            "CRM": [
+                "CRM: 99876"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [
+                "16:10"
+            ],
+            "HORARIO_FIM_ATENDIMENTO": [
+                "17:30"
+            ]
+        }
+    },
+    {
+        "id": 22,
+        "texto": "RELATÓRIO Confirmo que SOFIA RAIMUNDA COSTA (CPF 789.012.345-67) foi atendida em 15-Ago-2025 das 07:00 às 08:30. Diagnosticada com Enxaqueca (CiD- G43.909). Recomendado repouso por no período da manhã. CRM/RS 87654.",
+        "entidades": {
+            "NOME_PACIENTE": [],
+            "CID": [
+                "G43.909"
+            ],
+            "DATA": [
+                "15-Ago-2025"
+            ],
+            "TIPO_DOC": [
+                "RELATÓRIO"
+            ],
+            "TEMPO_AFASTAMENTO": [],
+            "CRM": [
+                "CRM/"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [
+                "07:00",
+                "período da manhã"
+            ],
+            "HORARIO_FIM_ATENDIMENTO": []
+        }
+    },
+    {
+        "id": 23,
+        "texto": "ATESTADO Atesto que LUCAS GABRIEL PEIXOTO esteve em consulta em 30 de setembro de 2025. Durante o período das 18:20 às 19:45 (noite). Diagnóstico: Conjuntivite bacteriana (cid: H10.2). Afastamento necessário: (3 dias). Dra. Fernanda Lima | CRM: 11223/SC.",
+        "entidades": {
+            "NOME_PACIENTE": [
+                "Fernanda Lima"
+            ],
+            "CID": [
+                "H10.2"
+            ],
+            "DATA": [
+                "30 de setembro de 2025"
+            ],
+            "TIPO_DOC": [
+                "ATESTADO"
+            ],
+            "TEMPO_AFASTAMENTO": [
+                "(noite)",
+                "3 dias"
+            ],
+            "CRM": [
+                "CRM: 11223"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [
+                "18:20"
+            ],
+            "HORARIO_FIM_ATENDIMENTO": [
+                "19:45"
+            ]
+        }
+    },
+    {
+        "id": 24,
+        "texto": "DECLARAÇÃO MÉDICA Consta que MARIANA FONTES RIBEIRO compareceu à unidade em 12/11/2024. Períod: 13:15 as 14:45 (tarde). Diagnóstico: Asma exacerbada (Cid_ J45.901). Repouso indicado por 2 dias. CRM 44556/GO.",
+        "entidades": {
+            "NOME_PACIENTE": [],
+            "CID": [
+                "J45.901"
+            ],
+            "DATA": [
+                "12/11/2024"
+            ],
+            "TIPO_DOC": [
+                "DECLARAÇÃO MÉDICA"
+            ],
+            "TEMPO_AFASTAMENTO": [
+                "(tarde)",
+                "2 dias"
+            ],
+            "CRM": [
+                "CRM 44556"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [
+                "13:15"
+            ],
+            "HORARIO_FIM_ATENDIMENTO": [
+                "14:45"
+            ]
+        }
+    },
+    {
+        "id": 25,
+        "texto": "DECLARAÇÃO MÉDICA Declaro que CARLOS ROBERTO MARTINS esteve sob cuidados em 05-Jan-2026 das 09:00 às 10:30. Diagnosticado com Hipertensão essencial (CID- I10). Afastamento de 15 dias necessário. CRM/MT 33445.",
+        "entidades": {
+            "NOME_PACIENTE": [
+                "CARLOS ROBERTO MARTINS"
+            ],
+            "CID": [
+                "I10"
+            ],
+            "DATA": [
+                "05-Jan-2026"
+            ],
+            "TIPO_DOC": [
+                "DECLARAÇÃO MÉDICA"
+            ],
+            "TEMPO_AFASTAMENTO": [
+                "15 dias"
+            ],
+            "CRM": [
+                "CRM/",
+                "33445"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [
+                "09:00"
+            ],
+            "HORARIO_FIM_ATENDIMENTO": [
+                "10:30"
+            ]
+        }
+    },
+    {
+        "id": 26,
+        "texto": "ATESTADO MÉDICO Atesto para os devidos fins que JULIANA SANTOS OLIVEIRA, portadora do CPF 234.567.890-11, esteve em atendimento no dia 20 de Fevereiro de 2025 (14:00-15:20). Diagnóstico: Depressão moderada (CID_ F32.1). Repouso por entre 1 a 15 dias. Dr. Roberto Mendes\nCRM-PA 77889.",
+        "entidades": {
+            "NOME_PACIENTE": [],
+            "CID": [
+                "F32.1"
+            ],
+            "DATA": [
+                "20 de Fevereiro de 2025"
+            ],
+            "TIPO_DOC": [
+                "ATESTADO MÉDICO"
+            ],
+            "TEMPO_AFASTAMENTO": [
+                "2025 (14:00-15",
+                "15 dias"
+            ],
+            "CRM": [
+                "CRM-PA 77889"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [],
+            "HORARIO_FIM_ATENDIMENTO": []
+        }
+    },
+    {
+        "id": 27,
+        "texto": "RELATÓRIO Confirmo atendimento a RAFAEL CARVALHO DIAS em 03/12/2024 no período da manhã (08:40-10:00). Diagnóstico: Gastrite aguda (cid- K29.0). Recomendado afastamento por 1 dia. CRM 99001/AL.",
+        "entidades": {
+            "NOME_PACIENTE": [],
+            "CID": [
+                "K29.0"
+            ],
+            "DATA": [
+                "03/12/2024"
+            ],
+            "TIPO_DOC": [
+                "RELATÓRIO"
+            ],
+            "TEMPO_AFASTAMENTO": [
+                "manhã (08:40-10",
+                "1 dia"
+            ],
+            "CRM": [
+                "CRM 99001"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [
+                "período da manhã"
+            ],
+            "HORARIO_FIM_ATENDIMENTO": []
+        }
+    },
+    {
+        "id": 28,
+        "texto": "DECLARACAO Declaro que PATRÍCIA NUNES FERNANDES esteve em consulta em 15-Jul-2025 das 16:00 às 17:30. Diagnosticada com Lombalgia (CID: M54.5). Necessário repouso por no período da tarde. CRM/RN 22334.",
+        "entidades": {
+            "NOME_PACIENTE": [],
+            "CID": [
+                "M54.5"
+            ],
+            "DATA": [
+                "15-Jul-2025"
+            ],
+            "TIPO_DOC": [
+                "DECLARACAO"
+            ],
+            "TEMPO_AFASTAMENTO": [],
+            "CRM": [
+                "CRM/"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [
+                "16:00"
+            ],
+            "HORARIO_FIM_ATENDIMENTO": [
+                "17:30"
+            ]
+        }
+    },
+    {
+        "id": 29,
+        "texto": "RECEITUÁRIO MÉDICO Consta que ANDRÉ LUIZ ROCHA foi avaliado em 10 de Março de 2025 no hoário de 19:00 as 20:30. Diagnóstico: Insônia (Cid: G47.0). Afastamento indicado: 8 dias. Dra. Camila Porto | CRM-ES 55667.",
+        "entidades": {
+            "NOME_PACIENTE": [],
+            "CID": [
+                "G47.0"
+            ],
+            "DATA": [
+                "10 de Março de 2025"
+            ],
+            "TIPO_DOC": [
+                "RECEITUÁRIO MÉDICO"
+            ],
+            "TEMPO_AFASTAMENTO": [
+                "8 dias"
+            ],
+            "CRM": [
+                "CRM-ES 55667"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [
+                "19:00"
+            ],
+            "HORARIO_FIM_ATENDIMENTO": [
+                "20:30"
+            ]
+        }
+    },
+    {
+        "id": 30,
+        "texto": "ATESTADO Atesto que GUSTAVO HENRIQUE MENDONÇA esteve sob cuidados em 25/04/2025 no período da noite, sendo este entre 21:15 as 22:40. Diagnóstico: Bronquite aguda (CiD_ J20.9). Repouso por 1 (um) dia. CRM 77881/CE.",
+        "entidades": {
+            "NOME_PACIENTE": [
+                "GUSTAVO HENRIQUE MENDONÇA"
+            ],
+            "CID": [
+                "J20.9"
+            ],
+            "DATA": [
+                "25/04/2025"
+            ],
+            "TIPO_DOC": [
+                "ATESTADO"
+            ],
+            "TEMPO_AFASTAMENTO": [
+                "1 (um) dia"
+            ],
+            "CRM": [
+                "CRM 77881"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [
+                "21:15"
+            ],
+            "HORARIO_FIM_ATENDIMENTO": [
+                "22:40"
+            ]
+        }
+    },
+    {
+        "id": 31,
+        "texto": "RELATÓRIO MÉDICO Declaro atendimento a AMANDA COSTA SILVEIRA em 07-Set-2025 das 11:00 às 12:30. Diagnóstico: Sinusite crônica (CID J32.9). Afastamento necessário: (10 dias). CRM/DF 11223.",
+        "entidades": {
+            "NOME_PACIENTE": [],
+            "CID": [
+                "J32.9"
+            ],
+            "DATA": [
+                "07-Set-2025"
+            ],
+            "TIPO_DOC": [
+                "RELATÓRIO MÉDICO"
+            ],
+            "TEMPO_AFASTAMENTO": [
+                "10 dias"
+            ],
+            "CRM": [
+                "CRM/"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [
+                "11:00"
+            ],
+            "HORARIO_FIM_ATENDIMENTO": [
+                "12:30"
+            ]
+        }
+    },
+    {
+        "id": 32,
+        "texto": "DECLARAÇÃO Confirmo que RODRIGO PEREIRA ALMEIDA (CPF 345.678.901-23) compareceu em 15/06/2025 no período da tarde. Diagnóstico: Tendinite de punho (cid- M65.4). Repouso indicado por no período da manhã. CRM 44556/BA.",
+        "entidades": {
+            "NOME_PACIENTE": [],
+            "CID": [
+                "M65.4"
+            ],
+            "DATA": [
+                "15/06/2025"
+            ],
+            "TIPO_DOC": [
+                "DECLARAÇÃO"
+            ],
+            "TEMPO_AFASTAMENTO": [
+                "punho (cid-"
+            ],
+            "CRM": [
+                "CRM 44556"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [
+                "período da manhã"
+            ],
+            "HORARIO_FIM_ATENDIMENTO": []
+        }
+    },
+    {
+        "id": 33,
+        "texto": "ATESTADO Atesto para os devidos fins que Fernanda Lopes Santos esteve em consulta em 30-Nov-2025 das 08:45 às 10:15. Diagnosticada com Ansiedade generalizada (CID_ F41.1). Afastamento de 15 dias. Dra. Isabela Martins\nCRM-MG 66778.",
+        "entidades": {
+            "NOME_PACIENTE": [
+                "Fernanda Lopes Santos"
+            ],
+            "CID": [
+                "F41.1"
+            ],
+            "DATA": [
+                "30-Nov-2025"
+            ],
+            "TIPO_DOC": [
+                "ATESTADO"
+            ],
+            "TEMPO_AFASTAMENTO": [
+                "15 dias"
+            ],
+            "CRM": [
+                "CRM-MG 66778"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [
+                "08:45"
+            ],
+            "HORARIO_FIM_ATENDIMENTO": [
+                "10:15"
+            ]
+        }
+    },
+    {
+        "id": 34,
+        "texto": "ATESTADO MÉDICO Atesdo para os devidos fins que o sr(a). MARCOS VINICIUS OLIVEIRA em 22 de Agosto de 2025 das 16:30 as 18:00. Diagnóstico: Artrose de joelho (CID M17). Repouso necessário por 8 dias. CRM/SP 88990.",
+        "entidades": {
+            "NOME_PACIENTE": [],
+            "CID": [
+                "M17"
+            ],
+            "DATA": [
+                "22 de Agosto de 2025"
+            ],
+            "TIPO_DOC": [
+                "ATESTADO MÉDICO"
+            ],
+            "TEMPO_AFASTAMENTO": [
+                "joelho (CID",
+                "8 dias"
+            ],
+            "CRM": [
+                "CRM/"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [
+                "16:30"
+            ],
+            "HORARIO_FIM_ATENDIMENTO": [
+                "18:00"
+            ]
+        }
+    },
+    {
+        "id": 35,
+        "texto": "RELATÓRIO Consta que a sr(a). BEATRIZ RIBEIRO COSTA foi avaliada em 05/01/2026 no período da manhã (07:30-09:00). Diagnóstico: Anemia ferropriva (cid_ D50.9). Afastamento indicado: entre 1 a 15 dias. CRM 11223/PR.",
+        "entidades": {
+            "NOME_PACIENTE": [],
+            "CID": [
+                "D50.9"
+            ],
+            "DATA": [
+                "05/01/2026"
+            ],
+            "TIPO_DOC": [
+                "RELATÓRIO"
+            ],
+            "TEMPO_AFASTAMENTO": [
+                "manhã (07:30-09",
+                "15 dias"
+            ],
+            "CRM": [
+                "CRM 11223"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [
+                "período da manhã"
+            ],
+            "HORARIO_FIM_ATENDIMENTO": []
+        }
+    },
+    {
+        "id": 36,
+        "texto": "DECLARAÇÃO MÉDICA Confirmo atendimento ao sr(a). Anderson Moreira da Costa, em 14-Dez-2025 das 13:00 às 14:45. Diagnóstico: Vertigem (CID H81.9). Necessário repouso por (5 dias). Dr. Felipe Costa | CRM: 33445/SC.",
+        "entidades": {
+            "NOME_PACIENTE": [],
+            "CID": [
+                "H81.9"
+            ],
+            "DATA": [
+                "14-Dez-2025"
+            ],
+            "TIPO_DOC": [
+                "DECLARAÇÃO MÉDICA"
+            ],
+            "TEMPO_AFASTAMENTO": [
+                "(5 dias)"
+            ],
+            "CRM": [
+                "CRM: 33445"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [
+                "13:00"
+            ],
+            "HORARIO_FIM_ATENDIMENTO": [
+                "14:45"
+            ]
+        }
+    },
+    {
+        "id": 37,
+        "texto": "DECLARAÇÃO MÉDICA Confirmo que DANIEL SOUZA LIMA esteve em 14-Dez-2025 das 13:00 às 14:45. em acompanhamento do seu filho menor de idade. Onde por ventura, necessita de acompanhamento do paciente no período de (5 dias). Dr. Felipe Costa | CRM: 33445/SC.",
+        "entidades": {
+            "NOME_PACIENTE": [
+                "DANIEL SOUZA LIMA"
+            ],
+            "CID": [],
+            "DATA": [
+                "14-Dez-2025"
+            ],
+            "TIPO_DOC": [
+                "DECLARAÇÃO MÉDICA"
+            ],
+            "TEMPO_AFASTAMENTO": [
+                "acompanhamento",
+                "(5 dias"
+            ],
+            "CRM": [
+                "CRM: 33445"
+            ],
+            "HORARIO_INICIO_ATENDIMENTO": [
+                "13:00"
+            ],
+            "HORARIO_FIM_ATENDIMENTO": [
+                "14:45"
+            ]
+        }
+    }
+]

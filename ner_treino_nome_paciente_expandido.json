@@ -1,0 +1,6650 @@
+[
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Sra. Pietra Peixoto compareceu em consulta no dia 07/07/2022 das 00:22 às 21:39, sendo diagnosticado com CID A09. Recomendado afastamento de 15\ndias de suas atividades. CRM do profissional responsável: 48581.",
+    {
+      "entities": [
+        [
+          60,
+          74,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO\nDeclaro para os devidos fins que o(a) paciente Maria Julia Moreira compareceu em consulta no dia 11/09/1997 das 17:18 às 22:19, sendo diagnosticado com CID B37.3. Recomendado afastamento de 1910212024\ndias de suas atividades. CRM do profissional responsável: 16461.",
+    {
+      "entities": [
+        [
+          64,
+          84,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Renan Rocha compareceu em consulta no dia 08/01/2024 das 05:39 às 20:00, sendo diagnosticado com CID G31.5. Recomendado afastamento de período da tarde de suas atividades. CRM do profissional responsável: 33999.",
+    {
+      "entities": [
+        [
+          56,
+          67,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO\nDeclaro para os devidos fins que o(a) paciente Alana Ribeiro compareceu em consulta no dia 10/4/24 das 02:50 às 22:52, sendo diagnosticado com CID 2014. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 21165.",
+    {
+      "entities": [
+        [
+          63,
+          77,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Alexandre da Mota compareceu em consulta no dia 10/06/2022 das 22:47 às 13:59, sendo diagnosticado com CID I47.2. Recomendado afastamento de 13 dias de suas atividades. CRM do profissional responsável: 31283.",
+    {
+      "entities": [
+        [
+          56,
+          74,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Sr. Leonardo Campos compareceu em consulta no dia 07/08/ das 16:00 às 13:44, sendo diagnosticado com CID G44.2. Recomendado afastamento de 6 dias de suas atividades. CRM do profissional responsável: 36977.",
+    {
+      "entities": [
+        [
+          60,
+          76,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Lorenzo Mendes compareceu em consulta no dia 22/08/2014 das 09:43 às 11:37, sendo diagnosticado com CID B15.6. Recomendado afastamento de 8 dias de suas atividades. CRM do profissional responsável: 96519.",
+    {
+      "entities": [
+        [
+          56,
+          70,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Ana Julia Rocha compareceu em consulta no dia 26/04/23 das 18:17 às 05:12, sendo diagnosticado com CID D220. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 23791.",
+    {
+      "entities": [
+        [
+          56,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Juan Silveira compareceu em consulta no dia 19/05/2001 das 07:39 às 07:19, sendo diagnosticado com CID Z30.4. Recomendado afastamento de 7 dias de suas atividades. CRM do profissional responsável: 15136.",
+    {
+      "entities": [
+        [
+          58,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Vitor Silveira compareceu em consulta no dia 08/01/2024 das 05:01 às 03:50, sendo diagnosticado com CID G13.8. Recomendado afastamento de período da tarde de suas atividades. CRM do profissional responsável: 33999.",
+    {
+      "entities": [
+        [
+          56,
+          71,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Danilo Duarte compareceu em consulta no dia 07/08/ das 10:50 às 07:58, sendo diagnosticado com CID G44.2. Recomendado afastamento de 9 dias de suas atividades. CRM do profissional responsável: 36977.",
+    {
+      "entities": [
+        [
+          56,
+          70,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Samuel Ramos compareceu em consulta no dia 20/12/2023 das 02:37 às 23:21, sendo diagnosticado com CID 10 Z012. Recomendado afastamento de 2 dias de suas atividades. CRM do profissional responsável: CRC: 9978.",
+    {
+      "entities": [
+        [
+          56,
+          69,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Juliana da Cruz compareceu em consulta no dia 03/02/2023 das 12:41 às 04:55, sendo diagnosticado com CID R97.0. Recomendado afastamento de 8 dias de suas atividades. CRM do profissional responsável: (CREFITO - 842914).",
+    {
+      "entities": [
+        [
+          58,
+          76,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Joaquim Duarte compareceu em consulta no dia 10/06/2022 das 16:20 às 06:22, sendo diagnosticado com CID N67.2. Recomendado afastamento de 6 dias de suas atividades. CRM do profissional responsável: 31283.",
+    {
+      "entities": [
+        [
+          56,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO\nDeclaro para os devidos fins que o(a) paciente Bernardo Mendes compareceu em consulta no dia 05/03/1979 das 08:27 às 08:43, sendo diagnosticado com CID B37.3. Recomendado afastamento de 1910212024\ndias de suas atividades. CRM do profissional responsável: 16461.",
+    {
+      "entities": [
+        [
+          64,
+          81,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Valentina Fernandes compareceu em consulta no dia 09/02/2023 das 05:25 às 01:09, sendo diagnosticado com CID K19.7. Recomendado afastamento de 4 dias de suas atividades. CRM do profissional responsável: CREFITO - 145389.",
+    {
+      "entities": [
+        [
+          58,
+          79,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Raul Teixeira compareceu em consulta no dia 17/05/2023 das 11:25 às 16:14, sendo diagnosticado com CID H60.6. Recomendado afastamento de 7 dias de suas atividades. CRM do profissional responsável: 08/11751.",
+    {
+      "entities": [
+        [
+          56,
+          70,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Sra. Luana Silveira compareceu em consulta no dia 20/01/1997 das 13:02 às 20:58, sendo diagnosticado com CID I24.8. Recomendado afastamento de 14 dias de suas atividades. CRM do profissional responsável: 24785.",
+    {
+      "entities": [
+        [
+          63,
+          78,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Isabelly Alves compareceu em consulta no dia 27/09/2023 das 01:04 às 17:51, sendo diagnosticado com CID O76.1. Recomendado afastamento de 11 dias de suas atividades. CRM do profissional responsável: CREFITO - 1913.",
+    {
+      "entities": [
+        [
+          58,
+          74,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Thomas Nascimento compareceu em consulta no dia 15/06/2023 das 08:52 às 00:15, sendo diagnosticado com CID F41. Recomendado afastamento de 1\n de suas atividades. CRM do profissional responsável: 34817.",
+    {
+      "entities": [
+        [
+          56,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Dr. Vitor Lopes compareceu em consulta no dia 23/01/2023 das 03:56 às 10:33, sendo diagnosticado com CID T784. Recomendado afastamento de 1 (Um.) dias de suas atividades. CRM do profissional responsável: 18513.",
+    {
+      "entities": [
+        [
+          60,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO\nDeclaro para os devidos fins que o(a) paciente Srta. Olivia Rocha compareceu em consulta no dia 14/12/2022 das 18:30 às 13:12, sendo diagnosticado com CID M23.9. Recomendado afastamento de 60 (SESSENTA) DIAS de suas atividades. CRM do profissional responsável: 12841-BA.",
+    {
+      "entities": [
+        [
+          70,
+          84,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Olivia Araújo compareceu em consulta no dia 08/05/2004 das 22:09 às 23:07, sendo diagnosticado com CID W75.9. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 47.690.",
+    {
+      "entities": [
+        [
+          56,
+          70,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Atesto que o(a) paciente Juliana Castro esteve em atendimento no dia 12/05/2023 das 14:10 às 15:35. Diagnóstico: CID K21.0. CRM 88774-SP. Recomendado afastamento de 10 dias.",
+    {
+      "entities": [
+        [
+          36,
+          50,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Benjamin Pereira compareceu em consulta no dia 08/05/2004 das 05:40 às 03:01, sendo diagnosticado com CID X77.0. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 47.690.",
+    {
+      "entities": [
+        [
+          56,
+          74,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Davi Lucca da Conceição compareceu em consulta no dia 10/06/2022 das 02:00 às 14:34, sendo diagnosticado com CID L59.9. Recomendado afastamento de 12 dias de suas atividades. CRM do profissional responsável: 31283.",
+    {
+      "entities": [
+        [
+          56,
+          81,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Emanuel da Rocha compareceu em consulta no dia 14/12/2018 das 07:44 às 12:35, sendo diagnosticado com CID J02. Recomendado afastamento de 6 dias de suas atividades. CRM do profissional responsável: 16461.",
+    {
+      "entities": [
+        [
+          58,
+          76,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Milena Sales compareceu em consulta no dia 04/07/24 das 07:05 às 16:22, sendo diagnosticado com CID R31.4. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 48279.",
+    {
+      "entities": [
+        [
+          58,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Fernanda Jesus compareceu em consulta no dia 08/05/2004 das 08:51 às 00:04, sendo diagnosticado com CID F33.2. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 47.690.",
+    {
+      "entities": [
+        [
+          56,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Ana Laura Pires compareceu em consulta no dia 22/06/2023 das 21:32 às 06:48, sendo diagnosticado com CID A31.3. Recomendado afastamento de 7 dias de suas atividades. CRM do profissional responsável: 47589.",
+    {
+      "entities": [
+        [
+          58,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Atesto que o(a) paciente Renata Bastos esteve em atendimento no dia 23/09/2022 das 14:10 às 15:35. Diagnóstico: CID L86.0. CRM-BA: 11223. Recomendado afastamento de 3 dias.",
+    {
+      "entities": [
+        [
+          42,
+          55,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Emilly Freitas compareceu em consulta no dia 23/01/2023 das 06:05 às 04:13, sendo diagnosticado com CID T784. Recomendado afastamento de 1 (Um.) dias de suas atividades. CRM do profissional responsável: 18513.",
+    {
+      "entities": [
+        [
+          56,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Thiago Silva compareceu em consulta no dia 22/05/2024 das 04:23 às 10:03, sendo diagnosticado com CID Y6.2. Recomendado afastamento de 14 dias de suas atividades. CRM do profissional responsável: 21548.",
+    {
+      "entities": [
+        [
+          58,
+          71,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO\nDeclaro para os devidos fins que o(a) paciente Maitê da Cunha compareceu em consulta no dia 10/06/2024 das 12:07 às 19:21, sendo diagnosticado com CID Z01.4. Recomendado afastamento de 2 dias de suas atividades. CRM do profissional responsável: 21871.",
+    {
+      "entities": [
+        [
+          64,
+          81,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Lucca Porto compareceu em consulta no dia 10/06/2022 das 13:50 às 00:40, sendo diagnosticado com CID L86.0. Recomendado afastamento de 8 dias de suas atividades. CRM do profissional responsável: 31283.",
+    {
+      "entities": [
+        [
+          56,
+          68,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Atesto que o(a) paciente Fábio Nogueira esteve em atendimento no dia 30/01/2024 das 10:45 às 12:00. Diagnóstico: CID L86.0. CRM 88774-SP. Recomendado afastamento de 3 dias.",
+    {
+      "entities": [
+        [
+          41,
+          55,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Dr. Thiago Castro compareceu em consulta no dia 15 de setembro de 2014 das 19:46 às 09:35, sendo diagnosticado com CID G56.0, M65.9. Recomendado afastamento de 3 dias de suas atividades. CRM do profissional responsável: 56.519.",
+    {
+      "entities": [
+        [
+          62,
+          78,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Bryan Gonçalves compareceu em consulta no dia 12/09/2023 das 07:30 às 21:09, sendo diagnosticado com CID S91.1. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 37323.",
+    {
+      "entities": [
+        [
+          58,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Maitê Correia compareceu em consulta no dia 15/01/2024 das 19:30 às 05:30, sendo diagnosticado com CID R074. Recomendado afastamento de 1 (Um.) dias de suas atividades. CRM do profissional responsável: 16017.",
+    {
+      "entities": [
+        [
+          56,
+          71,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Marcelo Duarte compareceu em consulta no dia 03/02/2023 das 16:05 às 23:08, sendo diagnosticado com CID X43.2. Recomendado afastamento de 2 dias de suas atividades. CRM do profissional responsável: (CREFITO - 842914).",
+    {
+      "entities": [
+        [
+          58,
+          74,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO\nDeclaro para os devidos fins que o(a) paciente Dr. Benício Cunha compareceu em consulta no dia 10/06/2024 das 01:28 às 19:25, sendo diagnosticado com CID Z01.4. Recomendado afastamento de 9 dias de suas atividades. CRM do profissional responsável: 21871.",
+    {
+      "entities": [
+        [
+          68,
+          83,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Dra. Stella Pinto compareceu em consulta no dia 09/02/2023 das 07:26 às 19:40, sendo diagnosticado com CID R49.9. Recomendado afastamento de 9 dias de suas atividades. CRM do profissional responsável: CREFITO - 145389.",
+    {
+      "entities": [
+        [
+          63,
+          77,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Ana Clara Santos compareceu em consulta no dia 13/08/1972 das 05:48 às 17:21, sendo diagnosticado com CID E38.2. Recomendado afastamento de 14 dias de suas atividades. CRM do profissional responsável: 25975.",
+    {
+      "entities": [
+        [
+          58,
+          76,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Mariana Vieira compareceu em consulta no dia 22/08/2014 das 07:38 às 18:18, sendo diagnosticado com CID P25.1. Recomendado afastamento de 4 dias de suas atividades. CRM do profissional responsável: 96519.",
+    {
+      "entities": [
+        [
+          56,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Ana Cavalcanti compareceu em consulta no dia 05/04/2023 das 02:00 às 23:26, sendo diagnosticado com CID H43.4. Recomendado afastamento de 2 dias de suas atividades. CRM do profissional responsável: 08/11751.",
+    {
+      "entities": [
+        [
+          56,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Danilo Duarte compareceu em consulta no dia 26/01/2023 das 07:17 às 20:12, sendo diagnosticado com CID E88.3. Recomendado afastamento de 6 dias de suas atividades. CRM do profissional responsável: CREFITO - 842914.",
+    {
+      "entities": [
+        [
+          58,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Atesto que o(a) paciente Fernanda Lima esteve em atendimento no dia 30/01/2024 das 14:10 às 15:35. Diagnóstico: CID A09. CRM-SP: 45678. Recomendado afastamento de 2 dias.",
+    {
+      "entities": [
+        [
+          36,
+          49,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Murilo Fogaça compareceu em consulta no dia 25/01/2023 das 19:55 às 01:00, sendo diagnosticado com CID K46.6. Recomendado afastamento de 4 dias de suas atividades. CRM do profissional responsável: CRP 08/1175.",
+    {
+      "entities": [
+        [
+          56,
+          71,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Luiza Cardoso compareceu em consulta no dia 09 de agosto de 2023 das 11:10 às 08:24, sendo diagnosticado com CID B20.7. Recomendado afastamento de 10 dias de suas atividades. CRM do profissional responsável: 24693.",
+    {
+      "entities": [
+        [
+          58,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Bianca da Mata compareceu em consulta no dia 05/04/2023 das 16:57 às 21:39, sendo diagnosticado com CID D46.5. Recomendado afastamento de 5 dias de suas atividades. CRM do profissional responsável: 10533.",
+    {
+      "entities": [
+        [
+          56,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Atesto que o(a) paciente João Pedro da Silva esteve em atendimento no dia 01/03/2024 das 16:30 às 17:50. Diagnóstico: CID Q15.7. CRM-CE 22991. Recomendado afastamento de 2 dias.",
+    {
+      "entities": [
+        [
+          36,
+          55,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Atesto que o(a) paciente Maria Fernanda Lopes esteve em atendimento no dia 05/04/2023 das 16:30 às 17:50. Diagnóstico: CID K21.0. CRM-SP: 45678. Recomendado afastamento de 10 dias.",
+    {
+      "entities": [
+        [
+          42,
+          62,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Alícia Moraes compareceu em consulta no dia 10/06/2022 das 11:29 às 18:26, sendo diagnosticado com CID W30.4. Recomendado afastamento de 7 dias de suas atividades. CRM do profissional responsável: 31283.",
+    {
+      "entities": [
+        [
+          56,
+          71,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Atesto que o(a) paciente Juliana Castro esteve em atendimento no dia 12/05/2023 das 16:30 às 17:50. Diagnóstico: CID F41.0. CRM-RJ 99887. Recomendado afastamento de 7 dias.",
+    {
+      "entities": [
+        [
+          36,
+          50,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO\nDeclaro para os devidos fins que o(a) paciente Lucas Porto compareceu em consulta no dia 08/05/1983 das 14:35 às 18:21, sendo diagnosticado com CID J02. Recomendado afastamento de 6 dias de suas atividades. CRM do profissional responsável: 16461.",
+    {
+      "entities": [
+        [
+          63,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Maria Fernanda Mendes compareceu em consulta no dia 22/08/2014 das 10:24 às 22:26, sendo diagnosticado com CID J24.5. Recomendado afastamento de 4 dias de suas atividades. CRM do profissional responsável: 96519.",
+    {
+      "entities": [
+        [
+          56,
+          79,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Ryan Moraes compareceu em consulta no dia 27/09/2023 das 05:19 às 14:31, sendo diagnosticado com CID H35.6. Recomendado afastamento de 10 dias de suas atividades. CRM do profissional responsável: CREFITO - 1913.",
+    {
+      "entities": [
+        [
+          58,
+          71,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Sofia Ramos compareceu em consulta no dia 12/09/2023 das 01:28 às 09:11, sendo diagnosticado com CID E19.7. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 46756.",
+    {
+      "entities": [
+        [
+          58,
+          71,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Joana Gonçalves compareceu em consulta no dia 25/01/2023 das 21:12 às 14:18, sendo diagnosticado com CID E14.4. Recomendado afastamento de 6 dias de suas atividades. CRM do profissional responsável: CRP 08/1175.",
+    {
+      "entities": [
+        [
+          56,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Natália Gomes compareceu em consulta no dia 05/04/2023 das 14:22 às 04:08, sendo diagnosticado com CID W61.0. Recomendado afastamento de 11 dias de suas atividades. CRM do profissional responsável: 08/11751.",
+    {
+      "entities": [
+        [
+          56,
+          71,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Ana Julia Rodrigues compareceu em consulta no dia 12/09/2023 das 16:18 às 10:23, sendo diagnosticado com CID N77.5. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 25946.",
+    {
+      "entities": [
+        [
+          58,
+          79,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Luna Novaes compareceu em consulta no dia 08/01/2024 das 18:48 às 11:17, sendo diagnosticado com CID P77.3. Recomendado afastamento de período da tarde de suas atividades. CRM do profissional responsável: 33999.",
+    {
+      "entities": [
+        [
+          56,
+          69,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Danilo Carvalho compareceu em consulta no dia 05/04/2023 das 08:47 às 12:01, sendo diagnosticado com CID R6.8. Recomendado afastamento de 13 dias de suas atividades. CRM do profissional responsável: 08/11751.",
+    {
+      "entities": [
+        [
+          56,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO\nDeclaro para os devidos fins que o(a) paciente Heloísa Silveira compareceu em consulta no dia 04/07/24 das 04:23 às 15:32, sendo diagnosticado com CID M41.7. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 13989.",
+    {
+      "entities": [
+        [
+          64,
+          82,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Cecília Almeida compareceu em consulta no dia 11/10/2023 das 19:15 às 11:13, sendo diagnosticado com CID E89.1. Recomendado afastamento de 14 dias de suas atividades. CRM do profissional responsável: CREFITO - 191391.",
+    {
+      "entities": [
+        [
+          58,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Atesto que o(a) paciente Fábio Nogueira esteve em atendimento no dia 07/07/2025 das 16:30 às 17:50. Diagnóstico: CID A09. CRM-CE 22991. Recomendado afastamento de 4 dias.",
+    {
+      "entities": [
+        [
+          36,
+          50,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Atesto que o(a) paciente Maria Fernanda Lopes esteve em atendimento no dia 05/04/2023 das 16:30 às 17:50. Diagnóstico: CID M54.5. CRM-CE 22991. Recomendado afastamento de 2 dias.",
+    {
+      "entities": [
+        [
+          36,
+          56,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Diego Lopes compareceu em consulta no dia 30/12/2023 das 14:22 às 11:34, sendo diagnosticado com CID Z76,3. Recomendado afastamento de 15 dias de suas atividades. CRM do profissional responsável: 15139.",
+    {
+      "entities": [
+        [
+          56,
+          69,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Ana Vitória da Mota compareceu em consulta no dia 05/04/2023 das 20:43 às 13:34, sendo diagnosticado com CID U42.5. Recomendado afastamento de 1 dias de suas atividades. CRM do profissional responsável: 08/11751.",
+    {
+      "entities": [
+        [
+          56,
+          77,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Atesto que o(a) paciente Patrícia Gomes esteve em atendimento no dia 23/09/2022 das 16:30 às 17:50. Diagnóstico: CID A09. CRM-PE: 34817. Recomendado afastamento de 1 dia.",
+    {
+      "entities": [
+        [
+          41,
+          55,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Srta. Maria Cunha compareceu em consulta no dia 11/10/2023 das 17:16 às 05:01, sendo diagnosticado com CID O49.2. Recomendado afastamento de 11 dias de suas atividades. CRM do profissional responsável: CREFITO - 191391.",
+    {
+      "entities": [
+        [
+          65,
+          77,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Atesto que o(a) paciente Lucas Almeida esteve em atendimento no dia 12/05/2023 das 08:00 às 10:30. Diagnóstico: CID Z01.4. CRM-RJ 99887. Recomendado afastamento de 2 dias.",
+    {
+      "entities": [
+        [
+          42,
+          55,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Ana Júlia Barbosa compareceu em consulta no dia 26/01/2023 das 06:03 às 13:11, sendo diagnosticado com CID Y9.9. Recomendado afastamento de 4 dias de suas atividades. CRM do profissional responsável: CREFITO - 842914.",
+    {
+      "entities": [
+        [
+          58,
+          77,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Sr. Lucas da Cruz compareceu em consulta no dia 25/01/2023 das 19:51 às 07:27, sendo diagnosticado com CID E54.3. Recomendado afastamento de 2 dias de suas atividades. CRM do profissional responsável: CRP 08/1175.",
+    {
+      "entities": [
+        [
+          60,
+          76,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Atesto que o(a) paciente Renata Bastos esteve em atendimento no dia 01/03/2024 das 08:00 às 10:30. Diagnóstico: CID Z01.4. CRM-PE: 34817. Recomendado afastamento de 7 dias.",
+    {
+      "entities": [
+        [
+          41,
+          54,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Danilo da Rocha compareceu em consulta no dia 12/06/1979 das 09:43 às 09:00, sendo diagnosticado com CID A09. Recomendado afastamento de  HORA de suas atividades. CRM do profissional responsável: 85985.",
+    {
+      "entities": [
+        [
+          58,
+          76,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Luna da Luz compareceu em consulta no dia 06/02/2023 das 01:28 às 11:42, sendo diagnosticado com CID D35.4. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: RN-PR: 7911.",
+    {
+      "entities": [
+        [
+          58,
+          71,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO\nDeclaro para os devidos fins que o(a) paciente Antônio Farias compareceu em consulta no dia 06/08/1996 das 10:28 às 19:30, sendo diagnosticado com CID J02. Recomendado afastamento de 6 dias de suas atividades. CRM do profissional responsável: 16461.",
+    {
+      "entities": [
+        [
+          63,
+          79,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Atesto que o(a) paciente Bruno Rocha esteve em atendimento no dia 01/03/2024 das 16:30 às 17:50. Diagnóstico: CID T77.8. CRM-PE: 34817. Recomendado afastamento de 5 dias.",
+    {
+      "entities": [
+        [
+          41,
+          52,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Atesto que o(a) paciente Bruno Rocha esteve em atendimento no dia 15/10/2025 das 08:00 às 10:30. Diagnóstico: CID M54.5. CRM 88774-SP. Recomendado afastamento de 4 dias.",
+    {
+      "entities": [
+        [
+          36,
+          47,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Enrico da Luz compareceu em consulta no dia 22/05/2024 das 02:28 às 17:12, sendo diagnosticado com CID D75.1. Recomendado afastamento de 5 dias de suas atividades. CRM do profissional responsável: 21548.",
+    {
+      "entities": [
+        [
+          58,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Ana Beatriz Nogueira compareceu em consulta no dia 15 de setembro de 2014 das 02:00 às 07:10, sendo diagnosticado com CID G56.0, M65.9. Recomendado afastamento de 4 dias de suas atividades. CRM do profissional responsável: 56.519.",
+    {
+      "entities": [
+        [
+          58,
+          80,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Dra. Ana Vitória Melo compareceu em consulta no dia 27/09/2023 das 13:31 às 14:46, sendo diagnosticado com CID V80.7. Recomendado afastamento de 5 dias de suas atividades. CRM do profissional responsável: CREFITO - 1913.",
+    {
+      "entities": [
+        [
+          65,
+          83,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Srta. Mariane Lima compareceu em consulta no dia 15/01/2024 das 04:25 às 20:43, sendo diagnosticado com CID R074. Recomendado afastamento de 1 (Um.) dias de suas atividades. CRM do profissional responsável: 16017.",
+    {
+      "entities": [
+        [
+          65,
+          79,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Ana Júlia Viana compareceu em consulta no dia 08/06/1985 das 06:36 às 20:16, sendo diagnosticado com CID N59.3. Recomendado afastamento de 7 dias de suas atividades. CRM do profissional responsável: 39712.",
+    {
+      "entities": [
+        [
+          58,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Henrique Jesus compareceu em consulta no dia 09 de agosto de 2023 das 13:06 às 18:02, sendo diagnosticado com CID M48.2. Recomendado afastamento de 1 dias de suas atividades. CRM do profissional responsável: 24693.",
+    {
+      "entities": [
+        [
+          58,
+          74,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO\nDeclaro para os devidos fins que o(a) paciente João Gabriel da Paz compareceu em consulta no dia 10/4/24 das 12:37 às 08:27, sendo diagnosticado com CID 2014. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 21165.",
+    {
+      "entities": [
+        [
+          63,
+          84,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Isabelly Ramos compareceu em consulta no dia 06/02/2023 das 11:56 às 18:21, sendo diagnosticado com CID Q98.1. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: RN-PR: 7911.",
+    {
+      "entities": [
+        [
+          58,
+          74,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Amanda Correia compareceu em consulta no dia 08/01/2024 das 12:01 às 12:31, sendo diagnosticado com CID P46.5. Recomendado afastamento de período da tarde de suas atividades. CRM do profissional responsável: 33999.",
+    {
+      "entities": [
+        [
+          56,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Sr. André Barros compareceu em consulta no dia 05/04/2023 das 03:54 às 15:53, sendo diagnosticado com CID A78.9. Recomendado afastamento de 9 dias de suas atividades. CRM do profissional responsável: 08/11751.",
+    {
+      "entities": [
+        [
+          60,
+          74,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Sr. João Miguel Peixoto compareceu em consulta no dia 04/07/24 das 13:26 às 05:26, sendo diagnosticado com CID L40.2. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 12756.",
+    {
+      "entities": [
+        [
+          62,
+          85,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Alexandre Oliveira compareceu em consulta no dia 23/01/2023 das 11:20 às 05:53, sendo diagnosticado com CID T784. Recomendado afastamento de 1 (Um.) dias de suas atividades. CRM do profissional responsável: 18513.",
+    {
+      "entities": [
+        [
+          56,
+          76,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Vicente Vieira compareceu em consulta no dia 19/05/1999 das 02:21 às 23:43, sendo diagnosticado com CID K64.4. Recomendado afastamento de 3 dias de suas atividades. CRM do profissional responsável: 18305.",
+    {
+      "entities": [
+        [
+          58,
+          74,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO\nDeclaro para os devidos fins que o(a) paciente Milena Pinto compareceu em consulta no dia 06/02/2023 das 10:47 às 00:38, sendo diagnosticado com CID Y27.6. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: RN-PR: 7911.",
+    {
+      "entities": [
+        [
+          63,
+          77,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO\nDeclaro para os devidos fins que o(a) paciente Vitor Carvalho compareceu em consulta no dia 25/05/22 das 04:34 às 21:39, sendo diagnosticado com CID T48.8. Recomendado afastamento de 5 dias de suas atividades. CRM do profissional responsável: 32.284.",
+    {
+      "entities": [
+        [
+          64,
+          80,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Luiz Felipe Aragão compareceu em consulta no dia 24/02/2023 das 00:59 às 15:21, sendo diagnosticado com CID D53.3. Recomendado afastamento de 11 dias de suas atividades. CRM do profissional responsável: CREFITO - 145389.",
+    {
+      "entities": [
+        [
+          58,
+          79,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente André Caldeira compareceu em consulta no dia 26/04/23 das 17:48 às 22:38, sendo diagnosticado com CID D220. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 23791.",
+    {
+      "entities": [
+        [
+          56,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Noah Souza compareceu em consulta no dia 22/06/2023 das 19:17 às 09:33, sendo diagnosticado com CID P32.4. Recomendado afastamento de 7 dias de suas atividades. CRM do profissional responsável: 25351.",
+    {
+      "entities": [
+        [
+          58,
+          70,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Eduarda Almeida compareceu em consulta no dia 09 de agosto de 2023 das 07:30 às 19:49, sendo diagnosticado com CID N70.6. Recomendado afastamento de 10 dias de suas atividades. CRM do profissional responsável: 24693.",
+    {
+      "entities": [
+        [
+          58,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Sr. Enzo Gabriel Moura compareceu em consulta no dia 08/01/2024 das 13:57 às 01:10, sendo diagnosticado com CID K23.9. Recomendado afastamento de período da tarde de suas atividades. CRM do profissional responsável: 33999.",
+    {
+      "entities": [
+        [
+          62,
+          84,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Marina Aragão compareceu em consulta no dia 07/07/2022 das 14:43 às 13:32, sendo diagnosticado com CID A09. Recomendado afastamento de 15\ndias de suas atividades. CRM do profissional responsável: 48581.",
+    {
+      "entities": [
+        [
+          56,
+          71,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Miguel Gonçalves compareceu em consulta no dia 4 de julho de 2022 das 00:51 às 21:42, sendo diagnosticado com CID F 41.1. Recomendado afastamento de 1 (um) dia de suas atividades. CRM do profissional responsável: 08/20693.",
+    {
+      "entities": [
+        [
+          56,
+          74,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO\nDeclaro para os devidos fins que o(a) paciente Isabel das Neves compareceu em consulta no dia 14/03/2000 das 13:49 às 22:49, sendo diagnosticado com CID B37.3. Recomendado afastamento de 1910212024\ndias de suas atividades. CRM do profissional responsável: 16461.",
+    {
+      "entities": [
+        [
+          64,
+          82,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Felipe Castro compareceu em consulta no dia 26/01/2023 das 18:41 às 20:00, sendo diagnosticado com CID E9.1. Recomendado afastamento de 3 dias de suas atividades. CRM do profissional responsável: CREFITO - 842914.",
+    {
+      "entities": [
+        [
+          58,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Diogo da Cruz compareceu em consulta no dia 12/11/2000 das 07:46 às 06:43, sendo diagnosticado com CID J02. Recomendado afastamento de 6 dias de suas atividades. CRM do profissional responsável: 16461.",
+    {
+      "entities": [
+        [
+          58,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Atesto que o(a) paciente Renata Bastos esteve em atendimento no dia 01/03/2024 das 07:00 às 08:45. Diagnóstico: CID F41.0. CRM 88774-SP. Recomendado afastamento de 4 dias.",
+    {
+      "entities": [
+        [
+          36,
+          49,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Vitor Gabriel Moura compareceu em consulta no dia 15 de setembro de 2014 das 06:06 às 07:39, sendo diagnosticado com CID G56.0, M65.9. Recomendado afastamento de 5 dias de suas atividades. CRM do profissional responsável: 56.519.",
+    {
+      "entities": [
+        [
+          58,
+          79,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Srta. Ana Lívia Nascimento compareceu em consulta no dia 26/01/2023 das 00:45 às 07:05, sendo diagnosticado com CID X93.1. Recomendado afastamento de 7 dias de suas atividades. CRM do profissional responsável: CREFITO - 842914.",
+    {
+      "entities": [
+        [
+          65,
+          90,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO\nDeclaro para os devidos fins que o(a) paciente Lucca Farias compareceu em consulta no dia 06/02/2023 das 01:47 às 22:43, sendo diagnosticado com CID A96.2. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: RN-PR: 7911.",
+    {
+      "entities": [
+        [
+          63,
+          77,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Bernardo Silveira compareceu em consulta no dia 15/01/2024 das 13:25 às 05:15, sendo diagnosticado com CID R074. Recomendado afastamento de 1 (Um.) dias de suas atividades. CRM do profissional responsável: 16017.",
+    {
+      "entities": [
+        [
+          56,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO\nDeclaro para os devidos fins que o(a) paciente Davi Alves compareceu em consulta no dia 01/11/1970 das 08:48 às 15:49, sendo diagnosticado com CID B37.3. Recomendado afastamento de 1910212024\ndias de suas atividades. CRM do profissional responsável: 16461.",
+    {
+      "entities": [
+        [
+          63,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Caio das Neves compareceu em consulta no dia 22/05/2024 das 02:21 às 21:16, sendo diagnosticado com CID Z69.7. Recomendado afastamento de 10 dias de suas atividades. CRM do profissional responsável: 21548.",
+    {
+      "entities": [
+        [
+          58,
+          74,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Srta. Maria Alice Caldeira compareceu em consulta no dia 23/01/2023 das 02:45 às 14:25, sendo diagnosticado com CID T784. Recomendado afastamento de 1 (Um.) dias de suas atividades. CRM do profissional responsável: 18513.",
+    {
+      "entities": [
+        [
+          65,
+          88,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Atesto que o(a) paciente João Pedro da Silva esteve em atendimento no dia 15/10/2025 das 16:30 às 17:50. Diagnóstico: CID T77.8. CRM-RJ 99887. Recomendado afastamento de 2 dias.",
+    {
+      "entities": [
+        [
+          36,
+          55,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Olivia da Mota compareceu em consulta no dia 27/09/2023 das 06:05 às 12:08, sendo diagnosticado com CID U10.1. Recomendado afastamento de 8 dias de suas atividades. CRM do profissional responsável: CREFITO - 1913.",
+    {
+      "entities": [
+        [
+          58,
+          74,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Agatha Sales compareceu em consulta no dia 4 de julho de 2022 das 02:35 às 20:11, sendo diagnosticado com CID F 41.1. Recomendado afastamento de 1 (um) dia de suas atividades. CRM do profissional responsável: 08/20693.",
+    {
+      "entities": [
+        [
+          56,
+          70,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Joana Rocha compareceu em consulta no dia 24/02/2023 das 15:04 às 07:37, sendo diagnosticado com CID O18.5. Recomendado afastamento de 14 dias de suas atividades. CRM do profissional responsável: CREFITO - 145389.",
+    {
+      "entities": [
+        [
+          58,
+          71,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Atesto que o(a) paciente Eduardo Tavares esteve em atendimento no dia 07/07/2025 das 14:10 às 15:35. Diagnóstico: CID G43.1. CRM-RJ 99887. Recomendado afastamento de 1 dia.",
+    {
+      "entities": [
+        [
+          42,
+          57,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Isadora Pereira compareceu em consulta no dia 22/08/2014 das 05:31 às 14:48, sendo diagnosticado com CID V85.9. Recomendado afastamento de 7 dias de suas atividades. CRM do profissional responsável: 96519.",
+    {
+      "entities": [
+        [
+          56,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Maria Fernanda da Luz compareceu em consulta no dia 22/05/2024 das 04:58 às 17:19, sendo diagnosticado com CID T54.0. Recomendado afastamento de 11 dias de suas atividades. CRM do profissional responsável: 21548.",
+    {
+      "entities": [
+        [
+          58,
+          81,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO\nDeclaro para os devidos fins que o(a) paciente Dr. Vitor Caldeira compareceu em consulta no dia 10/06/2024 das 23:55 às 23:26, sendo diagnosticado com CID Z01.4. Recomendado afastamento de 3 dias de suas atividades. CRM do profissional responsável: 21871.",
+    {
+      "entities": [
+        [
+          67,
+          83,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Maria Alice da Cruz compareceu em consulta no dia 08/01/2024 das 21:07 às 11:49, sendo diagnosticado com CID X93.3. Recomendado afastamento de período da tarde de suas atividades. CRM do profissional responsável: 33999.",
+    {
+      "entities": [
+        [
+          56,
+          77,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Atesto que o(a) paciente Patrícia Gomes esteve em atendimento no dia 23/09/2022 das 08:00 às 10:30. Diagnóstico: CID R87.8. CRM-CE 22991. Recomendado afastamento de 3 dias.",
+    {
+      "entities": [
+        [
+          41,
+          55,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Leandro Nogueira compareceu em consulta no dia 05/04/2023 das 18:19 às 20:41, sendo diagnosticado com CID Q15.7. Recomendado afastamento de 2 dias de suas atividades. CRM do profissional responsável: 44364.",
+    {
+      "entities": [
+        [
+          56,
+          74,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO\nDeclaro para os devidos fins que o(a) paciente Caroline Sales compareceu em consulta no dia 10/4/24 das 14:34 às 03:28, sendo diagnosticado com CID 2014. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 21165.",
+    {
+      "entities": [
+        [
+          63,
+          79,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Atesto que o(a) paciente Bruno Rocha esteve em atendimento no dia 15/10/2025 das 16:30 às 17:50. Diagnóstico: CID A09. CRM-CE 22991. Recomendado afastamento de 3 dias.",
+    {
+      "entities": [
+        [
+          42,
+          53,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO\nDeclaro para os devidos fins que o(a) paciente Nina Costela compareceu em consulta no dia 10/4/24 das 23:39 às 05:20, sendo diagnosticado com CID 2014. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 21165.",
+    {
+      "entities": [
+        [
+          63,
+          77,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Atesto que o(a) paciente Eduardo Tavares esteve em atendimento no dia 30/01/2024 das 07:00 às 08:45. Diagnóstico: CID T77.8. CRM-CE 22991. Recomendado afastamento de 10 dias.",
+    {
+      "entities": [
+        [
+          41,
+          56,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Emanuelly Moreira compareceu em consulta no dia 07/07/2022 das 03:44 às 07:14, sendo diagnosticado com CID A09. Recomendado afastamento de 15\ndias de suas atividades. CRM do profissional responsável: 48581.",
+    {
+      "entities": [
+        [
+          56,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO\nDeclaro para os devidos fins que o(a) paciente Laís Ferreira compareceu em consulta no dia 04/07/24 das 18:54 às 14:34, sendo diagnosticado com CID V92.8. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 15877.",
+    {
+      "entities": [
+        [
+          63,
+          78,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente João Felipe Teixeira compareceu em consulta no dia 26/01/2023 das 18:14 às 00:00, sendo diagnosticado com CID J41.0. Recomendado afastamento de 13 dias de suas atividades. CRM do profissional responsável: CREFITO - 842914.",
+    {
+      "entities": [
+        [
+          58,
+          80,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Maria Vitória Cardoso compareceu em consulta no dia 30/12/2023 das 16:40 às 06:26, sendo diagnosticado com CID Z76,3. Recomendado afastamento de 15 dias de suas atividades. CRM do profissional responsável: 15139.",
+    {
+      "entities": [
+        [
+          56,
+          79,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO\nDeclaro para os devidos fins que o(a) paciente Laís Almeida compareceu em consulta no dia 22/12/1993 das 01:43 às 08:04, sendo diagnosticado com CID B37.3. Recomendado afastamento de 1910212024\ndias de suas atividades. CRM do profissional responsável: 16461.",
+    {
+      "entities": [
+        [
+          64,
+          78,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Atesto que o(a) paciente Renata Bastos esteve em atendimento no dia 07/07/2025 das 10:45 às 12:00. Diagnóstico: CID A09. CRM 88774-SP. Recomendado afastamento de 5 dias.",
+    {
+      "entities": [
+        [
+          41,
+          54,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Atesto que o(a) paciente Maria Fernanda Lopes esteve em atendimento no dia 23/09/2022 das 08:00 às 10:30. Diagnóstico: CID G43.1. CRM-RJ 99887. Recomendado afastamento de 5 dias.",
+    {
+      "entities": [
+        [
+          41,
+          61,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO\nDeclaro para os devidos fins que o(a) paciente Esther Jesus compareceu em consulta no dia 17/07/1994 das 14:47 às 08:43, sendo diagnosticado com CID B37.3. Recomendado afastamento de 1910212024\ndias de suas atividades. CRM do profissional responsável: 16461.",
+    {
+      "entities": [
+        [
+          64,
+          78,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Antônio Vieira compareceu em consulta no dia 4 de julho de 2022 das 06:55 às 11:16, sendo diagnosticado com CID F 41.1. Recomendado afastamento de 1 (um) dia de suas atividades. CRM do profissional responsável: 08/20693.",
+    {
+      "entities": [
+        [
+          56,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Augusto Moura compareceu em consulta no dia 4 de julho de 2022 das 18:43 às 03:01, sendo diagnosticado com CID F 41.1. Recomendado afastamento de 1 (um) dia de suas atividades. CRM do profissional responsável: 08/20693.",
+    {
+      "entities": [
+        [
+          56,
+          71,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Samuel Costa compareceu em consulta no dia 05/04/2023 das 08:56 às 12:36, sendo diagnosticado com CID L47.0. Recomendado afastamento de 5 dias de suas atividades. CRM do profissional responsável: 08/11751.",
+    {
+      "entities": [
+        [
+          56,
+          70,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente João Vitor da Paz compareceu em consulta no dia 15/01/2024 das 08:59 às 17:57, sendo diagnosticado com CID R074. Recomendado afastamento de 1 (Um.) dias de suas atividades. CRM do profissional responsável: 16017.",
+    {
+      "entities": [
+        [
+          56,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Dr. Alexandre Rezende compareceu em consulta no dia 08/01/2024 das 13:36 às 20:46, sendo diagnosticado com CID Y79.4. Recomendado afastamento de período da tarde de suas atividades. CRM do profissional responsável: 33999.",
+    {
+      "entities": [
+        [
+          62,
+          82,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Luiz Felipe Rocha compareceu em consulta no dia 09 de agosto de 2023 das 22:39 às 11:29, sendo diagnosticado com CID C37.6. Recomendado afastamento de 10 dias de suas atividades. CRM do profissional responsável: 24693.",
+    {
+      "entities": [
+        [
+          58,
+          77,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Lavínia Castro compareceu em consulta no dia 20/12/2023 das 01:12 às 09:37, sendo diagnosticado com CID 10 Z012. Recomendado afastamento de 3 dias de suas atividades. CRM do profissional responsável: CRC: 9978.",
+    {
+      "entities": [
+        [
+          56,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Esther Nascimento compareceu em consulta no dia 20/12/2023 das 05:53 às 10:48, sendo diagnosticado com CID 10 Z012. Recomendado afastamento de 10 dias de suas atividades. CRM do profissional responsável: CRC: 9978.",
+    {
+      "entities": [
+        [
+          56,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO\nDeclaro para os devidos fins que o(a) paciente Fernanda Moreira compareceu em consulta no dia 07/08/1985 das 19:11 às 02:03, sendo diagnosticado com CID B37.3. Recomendado afastamento de 1910212024\ndias de suas atividades. CRM do profissional responsável: 16461.",
+    {
+      "entities": [
+        [
+          64,
+          82,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Pietro Melo compareceu em consulta no dia 25/01/2023 das 03:05 às 07:34, sendo diagnosticado com CID H42.5. Recomendado afastamento de 4 dias de suas atividades. CRM do profissional responsável: CRP 08/1175.",
+    {
+      "entities": [
+        [
+          56,
+          68,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Marcos Vinicius da Rosa compareceu em consulta no dia 08/01/2024 das 20:04 às 13:41, sendo diagnosticado com CID R2.0. Recomendado afastamento de período da tarde de suas atividades. CRM do profissional responsável: 33999.",
+    {
+      "entities": [
+        [
+          56,
+          81,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Luiz Gustavo Dias compareceu em consulta no dia 15/01/2024 das 05:12 às 23:03, sendo diagnosticado com CID R074. Recomendado afastamento de 1 (Um.) dias de suas atividades. CRM do profissional responsável: 16017.",
+    {
+      "entities": [
+        [
+          56,
+          76,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Atesto que o(a) paciente Carla Beatriz de Souza esteve em atendimento no dia 01/03/2024 das 07:00 às 08:45. Diagnóstico: CID F41.0. CRM 88774-SP. Recomendado afastamento de 2 dias.",
+    {
+      "entities": [
+        [
+          42,
+          64,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Ana Laura Novaes compareceu em consulta no dia 20/12/2023 das 02:27 às 23:43, sendo diagnosticado com CID 10 Z012. Recomendado afastamento de 11 dias de suas atividades. CRM do profissional responsável: CRC: 9978.",
+    {
+      "entities": [
+        [
+          56,
+          74,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Catarina Nascimento compareceu em consulta no dia 05/04/2023 das 17:37 às 10:11, sendo diagnosticado com CID N50.4. Recomendado afastamento de 2 dias de suas atividades. CRM do profissional responsável: 19591.",
+    {
+      "entities": [
+        [
+          56,
+          77,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Larissa Gomes compareceu em consulta no dia 03/02/2023 das 13:08 às 05:00, sendo diagnosticado com CID R86.5. Recomendado afastamento de 2 dias de suas atividades. CRM do profissional responsável: (CREFITO - 842914).",
+    {
+      "entities": [
+        [
+          58,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Sarah Rezende compareceu em consulta no dia 29/09/1990 das 14:52 às 11:39, sendo diagnosticado com CID C95.5. Recomendado afastamento de 3 dias de suas atividades. CRM do profissional responsável: 23370.",
+    {
+      "entities": [
+        [
+          58,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO\nDeclaro para os devidos fins que o(a) paciente Maysa Ribeiro compareceu em consulta no dia 06/02/2023 das 18:03 às 21:44, sendo diagnosticado com CID F34.8. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: RN-PR: 7911.",
+    {
+      "entities": [
+        [
+          64,
+          79,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Levi Cunha compareceu em consulta no dia 10/06/2022 das 14:23 às 04:31, sendo diagnosticado com CID R97.3. Recomendado afastamento de 10 dias de suas atividades. CRM do profissional responsável: 31283.",
+    {
+      "entities": [
+        [
+          56,
+          68,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Nicole Caldeira compareceu em consulta no dia 10/4/24 das 13:08 às 03:10, sendo diagnosticado com CID 2014. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 21165.",
+    {
+      "entities": [
+        [
+          58,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Atesto que o(a) paciente Maria Fernanda Lopes esteve em atendimento no dia 30/01/2024 das 10:45 às 12:00. Diagnóstico: CID Z01.4. CRM-SP: 45678. Recomendado afastamento de 4 dias.",
+    {
+      "entities": [
+        [
+          36,
+          56,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente João Gabriel Aragão compareceu em consulta no dia 07/08/ das 07:26 às 04:42, sendo diagnosticado com CID G44.2. Recomendado afastamento de 3 dias de suas atividades. CRM do profissional responsável: 36977.",
+    {
+      "entities": [
+        [
+          56,
+          77,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Atesto que o(a) paciente João Pedro da Silva esteve em atendimento no dia 01/03/2024 das 07:00 às 08:45. Diagnóstico: CID G43.1. CRM-BA: 11223. Recomendado afastamento de 5 dias.",
+    {
+      "entities": [
+        [
+          36,
+          55,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Pedro Vieira compareceu em consulta no dia 10/06/2022 das 15:09 às 05:20, sendo diagnosticado com CID A0.3. Recomendado afastamento de 10 dias de suas atividades. CRM do profissional responsável: 31283.",
+    {
+      "entities": [
+        [
+          56,
+          70,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Sra. Brenda da Mota compareceu em consulta no dia 03/02/2023 das 05:08 às 06:26, sendo diagnosticado com CID Y29.1. Recomendado afastamento de 13 dias de suas atividades. CRM do profissional responsável: (CREFITO - 842914).",
+    {
+      "entities": [
+        [
+          64,
+          82,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO\nDeclaro para os devidos fins que o(a) paciente Dra. Rebeca Rezende compareceu em consulta no dia 10/10/1993 das 15:08 às 16:40, sendo diagnosticado com CID 2301. Recomendado afastamento de 4\ndias de suas atividades. CRM do profissional responsável: 16461.",
+    {
+      "entities": [
+        [
+          67,
+          85,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO\nDeclaro para os devidos fins que o(a) paciente André da Paz compareceu em consulta no dia 14/04/1979 das 12:09 às 17:26, sendo diagnosticado com CID J02. Recomendado afastamento de 6 dias de suas atividades. CRM do profissional responsável: 16461.",
+    {
+      "entities": [
+        [
+          63,
+          77,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Sr. Leonardo Fernandes compareceu em consulta no dia 06/09/2023 das 13:55 às 22:29, sendo diagnosticado com CID W79.3. Recomendado afastamento de 13 dias de suas atividades. CRM do profissional responsável: 44276.",
+    {
+      "entities": [
+        [
+          62,
+          86,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Ana Julia da Cunha compareceu em consulta no dia 09/02/2023 das 10:20 às 20:48, sendo diagnosticado com CID E23.2. Recomendado afastamento de 12 dias de suas atividades. CRM do profissional responsável: CREFITO - 145389.",
+    {
+      "entities": [
+        [
+          58,
+          78,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Lucas Gabriel das Neves compareceu em consulta no dia 30/12/2023 das 02:31 às 10:47, sendo diagnosticado com CID Z76,3. Recomendado afastamento de 15 dias de suas atividades. CRM do profissional responsável: 15139.",
+    {
+      "entities": [
+        [
+          56,
+          81,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Amanda Jesus compareceu em consulta no dia 03/02/2023 das 04:01 às 19:44, sendo diagnosticado com CID I22.5. Recomendado afastamento de 14 dias de suas atividades. CRM do profissional responsável: (CREFITO - 842914).",
+    {
+      "entities": [
+        [
+          58,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Thomas Lima compareceu em consulta no dia 07/08/ das 14:54 às 23:50, sendo diagnosticado com CID G44.2. Recomendado afastamento de 7 dias de suas atividades. CRM do profissional responsável: 36977.",
+    {
+      "entities": [
+        [
+          56,
+          69,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Atesto que o(a) paciente Bruno Rocha esteve em atendimento no dia 05/04/2023 das 14:10 às 15:35. Diagnóstico: CID Z01.4. CRM-BA: 11223. Recomendado afastamento de 2 dias.",
+    {
+      "entities": [
+        [
+          42,
+          53,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Dr. Daniel Costa compareceu em consulta no dia 09/08/2018 das 16:45 às 05:56, sendo diagnosticado com CID G23.1. Recomendado afastamento de 13 dias de suas atividades. CRM do profissional responsável: 25420.",
+    {
+      "entities": [
+        [
+          62,
+          77,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO\nDeclaro para os devidos fins que o(a) paciente Benjamin Ferreira compareceu em consulta no dia 22/06/2023 das 09:10 às 00:26, sendo diagnosticado com CID C0.6. Recomendado afastamento de 7 dias de suas atividades. CRM do profissional responsável: 15179.",
+    {
+      "entities": [
+        [
+          63,
+          82,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO\nDeclaro para os devidos fins que o(a) paciente Matheus Silva compareceu em consulta no dia 14/12/2022 das 20:45 às 14:03, sendo diagnosticado com CID M23.9. Recomendado afastamento de 60 (SESSENTA) DIAS de suas atividades. CRM do profissional responsável: 12841-BA.",
+    {
+      "entities": [
+        [
+          64,
+          79,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Atesto que o(a) paciente Juliana Castro esteve em atendimento no dia 23/09/2022 das 08:00 às 10:30. Diagnóstico: CID A09. CRM-BA: 11223. Recomendado afastamento de 7 dias.",
+    {
+      "entities": [
+        [
+          36,
+          50,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Caroline Duarte compareceu em consulta no dia 24/02/2023 das 21:44 às 09:17, sendo diagnosticado com CID Z18.9. Recomendado afastamento de 7 dias de suas atividades. CRM do profissional responsável: CREFITO - 145389.",
+    {
+      "entities": [
+        [
+          58,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Maria Vitória Monteiro compareceu em consulta no dia 24/02/2023 das 14:21 às 07:40, sendo diagnosticado com CID U34.5. Recomendado afastamento de 8 dias de suas atividades. CRM do profissional responsável: CREFITO - 145389.",
+    {
+      "entities": [
+        [
+          58,
+          82,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Vitor Hugo Alves compareceu em consulta no dia 04/01/1974 das 18:47 às 06:54, sendo diagnosticado com CID E29.6. Recomendado afastamento de 7 dias de suas atividades. CRM do profissional responsável: 12744.",
+    {
+      "entities": [
+        [
+          58,
+          76,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Srta. Stephany Almeida compareceu em consulta no dia 10/06/2022 das 03:22 às 07:31, sendo diagnosticado com CID X35.0. Recomendado afastamento de 12 dias de suas atividades. CRM do profissional responsável: 31283.",
+    {
+      "entities": [
+        [
+          65,
+          84,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Samuel Pires compareceu em consulta no dia 09/02/2023 das 20:50 às 22:53, sendo diagnosticado com CID Q82.0. Recomendado afastamento de 8 dias de suas atividades. CRM do profissional responsável: CREFITO - 145389.",
+    {
+      "entities": [
+        [
+          58,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Leonardo Aragão compareceu em consulta no dia 25/01/2023 das 15:24 às 18:18, sendo diagnosticado com CID K9.4. Recomendado afastamento de 1 dias de suas atividades. CRM do profissional responsável: CRP 08/1175.",
+    {
+      "entities": [
+        [
+          56,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Atesto que o(a) paciente Fábio Nogueira esteve em atendimento no dia 01/03/2024 das 10:45 às 12:00. Diagnóstico: CID K21.0. CRM-PE: 34817. Recomendado afastamento de 2 dias.",
+    {
+      "entities": [
+        [
+          42,
+          56,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Noah Campos compareceu em consulta no dia 05/04/2023 das 14:04 às 04:40, sendo diagnosticado com CID I87.4. Recomendado afastamento de 7 dias de suas atividades. CRM do profissional responsável: 34226.",
+    {
+      "entities": [
+        [
+          56,
+          69,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Augusto Moreira compareceu em consulta no dia 26/04/23 das 07:14 às 15:28, sendo diagnosticado com CID D220. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 23791.",
+    {
+      "entities": [
+        [
+          56,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Erick Carvalho compareceu em consulta no dia 12/06/1979 das 04:01 às 10:58, sendo diagnosticado com CID A09. Recomendado afastamento de  HORA de suas atividades. CRM do profissional responsável: 85985.",
+    {
+      "entities": [
+        [
+          58,
+          74,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO\nDeclaro para os devidos fins que o(a) paciente Sr. Kaique Dias compareceu em consulta no dia 18/12/2014 das 00:49 às 01:31, sendo diagnosticado com CID 2301. Recomendado afastamento de 4\ndias de suas atividades. CRM do profissional responsável: 16461.",
+    {
+      "entities": [
+        [
+          67,
+          81,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Sra. Manuela Farias compareceu em consulta no dia 09/04/1996 das 07:05 às 10:25, sendo diagnosticado com CID J02. Recomendado afastamento de 6 dias de suas atividades. CRM do profissional responsável: 16461.",
+    {
+      "entities": [
+        [
+          64,
+          82,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Vitória Novaes compareceu em consulta no dia 05/04/2023 das 05:40 às 04:09, sendo diagnosticado com CID G44.6. Recomendado afastamento de 8 dias de suas atividades. CRM do profissional responsável: 08/11751.",
+    {
+      "entities": [
+        [
+          56,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Sr. Ian Silva compareceu em consulta no dia 26/01/2023 das 12:31 às 20:39, sendo diagnosticado com CID E0.0. Recomendado afastamento de 11 dias de suas atividades. CRM do profissional responsável: CREFITO - 842914.",
+    {
+      "entities": [
+        [
+          62,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Maria Julia Ribeiro compareceu em consulta no dia 23/01/2023 das 16:35 às 02:19, sendo diagnosticado com CID T784. Recomendado afastamento de 1 (Um.) dias de suas atividades. CRM do profissional responsável: 18513.",
+    {
+      "entities": [
+        [
+          56,
+          77,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Srta. Maria Julia Vieira compareceu em consulta no dia 15 de setembro de 2014 das 03:18 às 01:06, sendo diagnosticado com CID G56.0, M65.9. Recomendado afastamento de 14 dias de suas atividades. CRM do profissional responsável: 56.519.",
+    {
+      "entities": [
+        [
+          65,
+          88,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Maria Cecília Rezende compareceu em consulta no dia 05/04/2023 das 18:41 às 18:46, sendo diagnosticado com CID R3.3. Recomendado afastamento de 9 dias de suas atividades. CRM do profissional responsável: 08/11751.",
+    {
+      "entities": [
+        [
+          56,
+          79,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO\nDeclaro para os devidos fins que o(a) paciente Julia Castro compareceu em consulta no dia 06/02/2023 das 17:08 às 01:59, sendo diagnosticado com CID B14.3. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: RN-PR: 7911.",
+    {
+      "entities": [
+        [
+          63,
+          76,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Alexandre Novaes compareceu em consulta no dia 06/02/2023 das 11:46 às 01:31, sendo diagnosticado com CID O33.0. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: RN-PR: 7911.",
+    {
+      "entities": [
+        [
+          58,
+          76,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Isabelly Barros compareceu em consulta no dia 20/12/2023 das 18:24 às 04:30, sendo diagnosticado com CID 10 Z012. Recomendado afastamento de 2 dias de suas atividades. CRM do profissional responsável: CRC: 9978.",
+    {
+      "entities": [
+        [
+          56,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Atesto que o(a) paciente Rafael Andrade esteve em atendimento no dia 15/10/2025 das 16:30 às 17:50. Diagnóstico: CID T77.8. CRM-PE: 34817. Recomendado afastamento de 3 dias.",
+    {
+      "entities": [
+        [
+          42,
+          56,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Sofia Fogaça compareceu em consulta no dia 07/07/2022 das 23:30 às 13:54, sendo diagnosticado com CID A09. Recomendado afastamento de 15\ndias de suas atividades. CRM do profissional responsável: 48581.",
+    {
+      "entities": [
+        [
+          56,
+          70,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Dr. Rodrigo Aragão compareceu em consulta no dia 12/09/2023 das 14:05 às 11:26, sendo diagnosticado com CID Y34.3. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 38183.",
+    {
+      "entities": [
+        [
+          62,
+          79,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Diogo Araújo compareceu em consulta no dia 03/02/2023 das 05:20 às 09:14, sendo diagnosticado com CID V76.6. Recomendado afastamento de 9 dias de suas atividades. CRM do profissional responsável: (CREFITO - 842914).",
+    {
+      "entities": [
+        [
+          58,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Laís Caldeira compareceu em consulta no dia 12/06/1979 das 00:43 às 21:01, sendo diagnosticado com CID A09. Recomendado afastamento de  HORA de suas atividades. CRM do profissional responsável: 85985.",
+    {
+      "entities": [
+        [
+          58,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Atesto que o(a) paciente Maria Fernanda Lopes esteve em atendimento no dia 12/05/2023 das 16:30 às 17:50. Diagnóstico: CID Z01.4. CRM-SP: 45678. Recomendado afastamento de 3 dias.",
+    {
+      "entities": [
+        [
+          36,
+          56,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Maria Cecília Mendes compareceu em consulta no dia 22/08/2014 das 13:14 às 22:40, sendo diagnosticado com CID T23.8. Recomendado afastamento de 7 dias de suas atividades. CRM do profissional responsável: 96519.",
+    {
+      "entities": [
+        [
+          56,
+          78,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Letícia da Mota compareceu em consulta no dia 06/02/2023 das 04:23 às 19:13, sendo diagnosticado com CID T71.0. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: RN-PR: 7911.",
+    {
+      "entities": [
+        [
+          58,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Bruna Melo compareceu em consulta no dia 25/01/2023 das 12:51 às 23:52, sendo diagnosticado com CID V87.2. Recomendado afastamento de 13 dias de suas atividades. CRM do profissional responsável: CRP 08/1175.",
+    {
+      "entities": [
+        [
+          56,
+          68,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Elisa Rezende compareceu em consulta no dia 23/11/1986 das 20:17 às 16:27, sendo diagnosticado com CID B37.3. Recomendado afastamento de 1910212024\ndias de suas atividades. CRM do profissional responsável: 16461.",
+    {
+      "entities": [
+        [
+          58,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Thiago da Rosa compareceu em consulta no dia 25/01/2023 das 01:03 às 23:36, sendo diagnosticado com CID V30.8. Recomendado afastamento de 3 dias de suas atividades. CRM do profissional responsável: CRP 08/1175.",
+    {
+      "entities": [
+        [
+          56,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente João Felipe Souza compareceu em consulta no dia 11/10/2023 das 23:18 às 12:26, sendo diagnosticado com CID X42.9. Recomendado afastamento de 8 dias de suas atividades. CRM do profissional responsável: CREFITO - 191391.",
+    {
+      "entities": [
+        [
+          58,
+          77,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Sr. Diogo Aragão compareceu em consulta no dia 10/4/24 das 15:39 às 12:33, sendo diagnosticado com CID 2014. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 21165.",
+    {
+      "entities": [
+        [
+          62,
+          78,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins que o(a) paciente Otávio Silveira compareceu em consulta no dia 27/09/2023 das 06:07 às 06:38, sendo diagnosticado com CID F12.0. Recomendado afastamento de 3 dias de suas atividades. CRM do profissional responsável: CREFITO - 1913.",
+    {
+      "entities": [
+        [
+          58,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Atesto que o(a) paciente Fernanda Lima esteve em atendimento no dia 05/04/2023 das 10:45 às 12:00. Diagnóstico: CID L86.0. CRM 88774-SP. Recomendado afastamento de 5 dias.",
+    {
+      "entities": [
+        [
+          41,
+          54,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Atesto que o(a) paciente Patrícia Gomes esteve em atendimento no day 23/09/2022 das 14:10 às 15:35. Diagnóstico: CID F41.0. CRM-PE: 34817. Recomendado afastamento de 2 dias.",
+    {
+      "entities": [
+        [
+          36,
+          50,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Atesto que o(a) paciente Fábio Nogueira esteve em atendimento no dia 05/04/2023 das 07:00 às 08:45. Diagnóstico: CID Q15.7. CRM-CE 22991. Recomendado afastamento de 3 dias.",
+    {
+      "entities": [
+        [
+          41,
+          55,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins que o(a) paciente Rodrigo da Rosa compareceu em consulta no dia 20/12/2023 das 11:23 às 15:36, sendo diagnosticado com CID 10 Z012. Recomendado afastamento de 6 dias de suas atividades. CRM do profissional responsável: CRC: 9978.",
+    {
+      "entities": [
+        [
+          56,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Pedro Barros compareceu em consulta no dia 05/04/2023 das 11:51 às 22:22, sendo diagnosticado com CID C9.2. Recomendado afastamento de 8 dias de suas atividades. CRM do profissional responsável: 31102.",
+    {
+      "entities": [
+        [
+          56,
+          70,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Sophie Castro compareceu em consulta no dia 30/12/2023 das 00:54 às 13:51, sendo diagnosticado com CID Z76,3. Recomendado afastamento de 15 dias de suas atividades. CRM do profissional responsável: 15139.",
+    {
+      "entities": [
+        [
+          56,
+          71,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO\nDeclaro para os devidos fins that o(a) paciente Heitor da Cunha compareceu em consulta no dia 19/07/1991 das 12:12 às 04:52, sendo diagnosticado com CID B37.3. Recomendado afastamento de 1910212024\ndias de suas atividades. CRM do profissional responsável: 16461.",
+    {
+      "entities": [
+        [
+          63,
+          80,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente João Pedro Mendes compareceu em consulta no dia 20/12/2023 das 22:39 às 01:27, sendo diagnosticado com CID 10 Z012. Recomendado afastamento de 1 dias de suas atividades. CRM do profissional responsável: CRC: 9978.",
+    {
+      "entities": [
+        [
+          56,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Bernardo Alves compareceu em consulta no dia 07/08/ das 15:44 às 19:55, sendo diagnosticado with CID G44.2. Recomendado afastamento de 13 dias de suas atividades. CRM do profissional responsável: 36977.",
+    {
+      "entities": [
+        [
+          56,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Camila Rocha compareceu em consulta no dia 07/07/2022 das 08:14 às 01:28, sendo diagnosticado with CID A09. Recomendado afastamento de 15\ndias de suas atividades. CRM do profissional responsável: 48581.",
+    {
+      "entities": [
+        [
+          56,
+          70,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Atesto que o(a) paciente Maria Fernanda Lopes esteve em atendimento no dia 01/03/2024 das 07:00 às 08:45. Diagnóstico: CID K21.0. CRM-PE: 34817. Recomendado afastamento de 10 dias.",
+    {
+      "entities": [
+        [
+          36,
+          56,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Benjamin Ferreira compareceu em consulta no dia 20/12/2023 das 01:23 às 23:46, sendo diagnosticado with CID 10 Z012. Recomendado afastamento de 8 dias de suas atividades. CRM do profissional responsável: CRC: 9978.",
+    {
+      "entities": [
+        [
+          56,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Maria Julia Freitas compareceu em consulta no dia 26/04/23 das 09:22 às 09:10, sendo diagnosticado with CID D220. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 23791.",
+    {
+      "entities": [
+        [
+          56,
+          77,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Emanuel Moreira compareceu em consulta no dia 15/06/2023 das 16:09 às 17:21, sendo diagnosticado with CID F41. Recomendado afastamento de 1\n de suas atividades. CRM do profissional responsável: 34817.",
+    {
+      "entities": [
+        [
+          56,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Agatha Carvalho compareceu em consulta no dia 10/06/2022 das 16:11 às 03:54, sendo diagnosticado with CID N84.3. Recomendado afastamento de 8 dias de suas atividades. CRM do profissional responsável: 31283.",
+    {
+      "entities": [
+        [
+          56,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Luigi da Costa compareceu em consulta no dia 26/04/23 das 18:14 às 05:25, sendo diagnosticado with CID D220. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 23791.",
+    {
+      "entities": [
+        [
+          56,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Bruno Almeida compareceu em consulta no dia 12/06/1979 das 08:53 às 22:37, sendo diagnosticado with CID A09. Recomendado afastamento de  HORA de suas atividades. CRM do profissional responsável: 85985.",
+    {
+      "entities": [
+        [
+          58,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Fernanda Melo compareceu em consulta no dia 4 de julho de 2022 das 17:48 às 05:48, sendo diagnosticado with CID F 41.1. Recomendado afastamento de 1 (um) dia de suas atividades. CRM do profissional responsável: 08/20693.",
+    {
+      "entities": [
+        [
+          56,
+          71,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Lara Pereira compareceu em consulta no dia 27/09/2023 das 11:46 às 05:14, sendo diagnosticado with CID W96.1. Recomendado afastamento de 10 dias de suas atividades. CRM do profissional responsável: CREFITO - 1913.",
+    {
+      "entities": [
+        [
+          58,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Atesto que o(a) paciente Carla Beatriz de Souza esteve em atendimento no dia 05/04/2023 das 08:00 às 10:30. Diagnóstico: CID M54.5. CRM-BA: 11223. Recomendado afastamento de 2 dias.",
+    {
+      "entities": [
+        [
+          42,
+          64,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO\nDeclaro para os devidos fins that o(a) paciente Cauê Pinto compareceu em consulta no dia 14/12/2022 das 18:53 às 04:21, sendo diagnosticado with CID M23.9. Recomendado afastamento de 60 (SESSENTA) DIAS de suas atividades. CRM do profissional responsável: 12841-BA.",
+    {
+      "entities": [
+        [
+          64,
+          76,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO\nDeclaro para os devidos fins that o(a) paciente Dr. Luiz Otávio Rodrigues compareceu em consulta no dia 22/06/2023 das 08:53 às 13:30, sendo diagnosticado with CID F62.0. Recomendado afastamento de 7 dias de suas atividades. CRM do profissional responsável: 15152.",
+    {
+      "entities": [
+        [
+          68,
+          92,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Fernando Moura compareceu em consulta no dia 15/01/2024 das 10:11 às 09:11, sendo diagnosticado with CID R074. Recomendado afastamento de 1 (Um.) dias de suas atividades. CRM do profissional responsável: 16017.",
+    {
+      "entities": [
+        [
+          56,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Isis Pinto compareceu em consulta no dia 07/08/ das 06:27 às 22:22, sendo diagnosticado with CID G44.2. Recomendado afastamento de 1 dias de suas atividades. CRM do profissional responsável: 36977.",
+    {
+      "entities": [
+        [
+          56,
+          68,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Luigi Cardoso compareceu em consulta no dia 26/01/2023 das 02:44 às 06:54, sendo diagnosticado with CID S11.7. Recomendado afastamento de 5 dias de suas atividades. CRM do profissional responsável: CREFITO - 842914.",
+    {
+      "entities": [
+        [
+          58,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Thales Cunha compareceu em consulta no dia 4 de julho de 2022 das 17:27 às 16:29, sendo diagnosticado with CID F 41.1. Recomendado afastamento de 1 (um) dia de suas atividades. CRM do profissional responsável: 08/20693.",
+    {
+      "entities": [
+        [
+          56,
+          70,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Mirella Ribeiro compareceu em consulta no dia 06/09/2023 das 00:09 às 07:08, sendo diagnosticado with CID L83.4. Recomendado afastamento de 6 dias de suas atividades. CRM do profissional responsável: 24707.",
+    {
+      "entities": [
+        [
+          58,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Diogo Porto compareceu em consulta no dia 07/08/ das 05:35 às 21:42, sendo diagnosticado with CID G44.2. Recomendado afastamento de 10 dias de suas atividades. CRM do profissional responsável: 36977.",
+    {
+      "entities": [
+        [
+          56,
+          69,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Maria Luiza Moreira compareceu em consulta no dia 05/04/2023 das 04:31 às 07:12, sendo diagnosticado with CID D86.1. Recomendado afastamento de 11 dias de suas atividades. CRM do profissional responsável: 08/11751.",
+    {
+      "entities": [
+        [
+          56,
+          77,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Yago Azevedo compareceu em consulta no dia 11/10/2023 das 23:30 às 22:30, sendo diagnosticado with CID O23.8. Recomendado afastamento de 5 dias de suas atividades. CRM do profissional responsável: CREFITO - 191391.",
+    {
+      "entities": [
+        [
+          58,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente João Gabriel Novaes compareceu em consulta no dia 22/05/2024 das 01:54 às 00:13, sendo diagnosticado with CID T75.4. Recomendado afastamento de 3 dias de suas atividades. CRM do profissional responsável: 21548.",
+    {
+      "entities": [
+        [
+          58,
+          79,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Vitória Gonçalves compareceu em consulta no dia 07/07/2022 das 13:27 às 00:07, sendo diagnosticado with CID A09. Recomendado afastamento de 15\ndias de suas atividades. CRM do profissional responsável: 48581.",
+    {
+      "entities": [
+        [
+          56,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO\nDeclaro para os devidos fins that o(a) paciente Pedro Caldeira compareceu em consulta no dia 06/02/2023 das 23:57 às 23:49, sendo diagnosticado with CID G88.8. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: RN-PR: 7911.",
+    {
+      "entities": [
+        [
+          64,
+          80,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Atesto que o(a) paciente Eduardo Tavares esteve em atendimento no dia 05/04/2023 das 10:45 às 12:00. Diagnóstico: CID Q15.7. CRM-RJ 99887. Recomendado afastamento de 3 dias.",
+    {
+      "entities": [
+        [
+          41,
+          56,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Guilherme Nunes compareceu em consulta no dia 17/05/2023 das 03:39 às 15:28, sendo diagnosticado with CID F37.1. Recomendado afastamento de 5 dias de suas atividades. CRM do profissional responsável: 08/11751.",
+    {
+      "entities": [
+        [
+          56,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Maysa Rezende compareceu em consulta no dia 05/04/2023 das 16:20 às 15:27, sendo diagnosticado with CID F33.7. Recomendado afastamento de 12 dias de suas atividades. CRM do profissional responsável: 27784.",
+    {
+      "entities": [
+        [
+          56,
+          71,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Atesto que o(a) paciente Juliana Castro esteve em atendimento no dia 05/04/2023 das 14:10 às 15:35. Diagnóstico: CID M54.5. CRM-CE 22991. Recomendado afastamento de 10 dias.",
+    {
+      "entities": [
+        [
+          36,
+          50,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Luiz Henrique Oliveira compareceu em consulta no dia 4 de julho de 2022 das 13:00 às 23:01, sendo diagnosticado with CID F 41.1. Recomendado afastamento de 1 (um) dia de suas atividades. CRM do profissional responsável: 08/20693.",
+    {
+      "entities": [
+        [
+          56,
+          80,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Ian Teixeira compareceu em consulta no dia 15 de setembro de 2014 das 14:44 às 20:56, sendo diagnosticado with CID G56.0, M65.9. Recomendado afastamento de 7 dias de suas atividades. CRM do profissional responsável: 56.519.",
+    {
+      "entities": [
+        [
+          58,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Leandro Ferreira compareceu em consulta no dia 25/01/2023 das 12:04 às 09:09, sendo diagnosticado with CID W68.5. Recomendado afastamento de 3 dias de suas atividades. CRM do profissional responsável: CRP 08/1175.",
+    {
+      "entities": [
+        [
+          56,
+          74,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Dr. João Pedro Costa compareceu em consulta no dia 05/04/2023 das 09:14 às 21:42, sendo diagnosticado with CID R60.4. Recomendado afastamento de 1 dias de suas atividades. CRM do profissional responsável: 08/11751.",
+    {
+      "entities": [
+        [
+          62,
+          81,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Joana Peixoto compareceu em consulta no dia 05/04/2023 das 09:17 às 14:34, sendo diagnosticado with CID S30.1. Recomendado afastamento de 3 dias de suas atividades. CRM do profissional responsável: 08/11751.",
+    {
+      "entities": [
+        [
+          56,
+          71,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Calebe Ramos compareceu em consulta no day 06/09/2023 das 09:42 às 00:36, sendo diagnosticado with CID H58.6. Recomendado afastamento de 3 dias de suas atividades. CRM do profissional responsável: 46663.",
+    {
+      "entities": [
+        [
+          58,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO\nDeclaro para os devidos fins that o(a) paciente Nicole Viana compareceu em consulta no dia 25/05/22 das 18:51 às 00:17, sendo diagnosticado with CID K56.0. Recomendado afastamento de 11 dias de suas atividades. CRM do profissional responsável: 32.284.",
+    {
+      "entities": [
+        [
+          63,
+          77,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Vitor Viana compareceu em consulta no dia 25/01/2023 das 08:53 às 22:58, sendo diagnosticado with CID G80.6. Recomendado afastamento de 13 dias de suas atividades. CRM do profissional responsável: CRP 08/1175.",
+    {
+      "entities": [
+        [
+          56,
+          69,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Miguel Moreira compareceu em consulta no dia 4 de julho de 2022 das 13:24 às 18:05, sendo diagnosticado with CID F 41.1. Recomendado afastamento de 1 (um) dia de suas atividades. CRM do profissional responsável: 08/20693.",
+    {
+      "entities": [
+        [
+          56,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO\nDeclaro para os devidos fins that o(a) paciente Marina da Rosa compareceu em consulta no dia 10/06/2024 das 03:11 às 19:59, sendo diagnosticado with CID Z01.4. Recomendado afastamento de 4 dias de suas atividades. CRM do profissional responsável: 21871.",
+    {
+      "entities": [
+        [
+          63,
+          79,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Calebe da Conceição compareceu em consulta no dia 03/02/2023 das 15:16 às 04:30, sendo diagnosticado with CID G3.6. Recomendado afastamento de 4 dias de suas atividades. CRM do profissional responsável: (CREFITO - 842914).",
+    {
+      "entities": [
+        [
+          58,
+          79,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Srta. Isabella Azevedo compareceu em consulta no dia 22/06/2023 das 16:49 às 14:32, sendo diagnosticado with CID D84.3. Recomendado afastamento de 7 dias de suas atividades. CRM do profissional responsável: 41831.",
+    {
+      "entities": [
+        [
+          65,
+          84,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Enzo Viana compareceu em consulta no dia 23/01/2023 das 19:30 às 05:23, sendo diagnosticado with CID T784. Recomendado afastamento de 1 (Um.) dias de suas atividades. CRM do profissional responsável: 18513.",
+    {
+      "entities": [
+        [
+          56,
+          68,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Atesto que o(a) paciente Fábio Nogueira esteve em atendimento no dia 15/10/2025 das 07:00 às 08:45. Diagnóstico: CID T77.8. CRM-PE: 34817. Recomendado afastamento de 7 dias.",
+    {
+      "entities": [
+        [
+          41,
+          55,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO\nDeclaro para os devidos fins that o(a) paciente Yuri Porto compareceu em consulta no dia 10/4/24 das 00:56 às 00:13, sendo diagnosticado with CID 2014. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 21165.",
+    {
+      "entities": [
+        [
+          63,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Srta. Luna das Neves compareceu em consulta no dia 15 de setembro de 2014 das 23:02 às 05:33, sendo diagnosticado with CID G56.0, M65.9. Recomendado afastamento de 11 dias de suas atividades. CRM do profissional responsável: 56.519.",
+    {
+      "entities": [
+        [
+          65,
+          86,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Esther Nascimento compareceu em consulta no dia 15 de setembro de 2014 das 08:45 às 22:10, sendo diagnosticado with CID G56.0, M65.9. Recomendado afastamento de 6 dias de suas atividades. CRM do profissional responsável: 56.519.",
+    {
+      "entities": [
+        [
+          58,
+          77,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Theo Teixeira compareceu em consulta no dia 17/06/1998 das 23:28 às 14:45, sendo diagnosticado with CID J02. Recomendado afastamento de 6 dias de suas atividades. CRM do profissional responsável: 16461.",
+    {
+      "entities": [
+        [
+          58,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Maria Vitória das Neves compareceu em consulta no dia 4 de julho de 2022 das 04:56 às 01:23, sendo diagnosticado with CID F 41.1. Recomendado afastamento de 1 (um) dia de suas atividades. CRM do profissional responsável: 08/20693.",
+    {
+      "entities": [
+        [
+          56,
+          81,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Daniel Castro compareceu em consulta no dia 06/09/2023 das 07:18 às 09:12, sendo diagnosticado with CID Q63.1. Recomendado afastamento de 7 dias de suas atividades. CRM do profissional responsável: 43979.",
+    {
+      "entities": [
+        [
+          58,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Benjamin Alves compareceu em consulta no dia 06/09/2023 das 17:44 às 19:48, sendo diagnosticado with CID O94.8. Recomendado afastamento de 14 dias de suas atividades. CRM do profissional responsável: 14828.",
+    {
+      "entities": [
+        [
+          58,
+          74,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO\nDeclaro para os devidos fins that o(a) paciente Sr. Luiz Miguel Nascimento compareceu em consulta no dia 14/12/2022 das 17:49 às 12:52, sendo diagnosticado with CID M23.9. Recomendado afastamento de 60 (SESSENTA) DIAS de suas atividades. CRM do profissional responsável: 12841-BA.",
+    {
+      "entities": [
+        [
+          68,
+          95,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Diogo Oliveira compareceu em consulta no dia 29/08/2001 das 12:55 às 23:42, sendo diagnosticado with CID 2301. Recomendado afastamento de 4\ndias de suas atividades. CRM do profissional responsável: 16461.",
+    {
+      "entities": [
+        [
+          58,
+          74,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Noah Rodrigues compareceu em consulta no dia 09 de agosto de 2023 das 21:03 às 21:33, sendo diagnosticado with CID C87.7. Recomendado afastamento de 8 dias de suas atividades. CRM do profissional responsável: 24693.",
+    {
+      "entities": [
+        [
+          58,
+          74,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Lívia Martins compareceu em consulta no dia 05/04/2023 das 20:34 às 02:08, sendo diagnosticado with CID F7.6. Recomendado afastamento de 14 dias de suas atividades. CRM do profissional responsável: 08/11751.",
+    {
+      "entities": [
+        [
+          56,
+          71,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Cauê da Paz compareceu em consulta no dia 05/04/2023 das 04:15 às 21:35, sendo diagnosticado with CID Q76.3. Recomendado afastamento de 13 dias de suas atividades. CRM do profissional responsável: 16372.",
+    {
+      "entities": [
+        [
+          56,
+          69,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO\nDeclaro para os devidos fins that o(a) paciente Srta. Vitória Souza compareceu em consulta no dia 22/06/2003 das 19:56 às 04:12, sendo diagnosticado with CID B37.3. Recomendado afastamento de 1910212024\ndias de suas atividades. CRM do profissional responsável: 16461.",
+    {
+      "entities": [
+        [
+          70,
+          87,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Maria Vitória Azevedo compareceu em consulta no dia 17/05/2023 das 07:46 às 05:02, sendo diagnosticado with CID X13.6. Recomendado afastamento de 1 dias de suas atividades. CRM do profissional responsável: 08/11751.",
+    {
+      "entities": [
+        [
+          56,
+          79,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Yago da Paz compareceu em consulta no dia 11/10/2023 das 12:12 às 03:53, sendo diagnosticado with CID F6.6. Recomendado afastamento de 13 dias de suas atividades. CRM do profissional responsável: CREFITO - 191391.",
+    {
+      "entities": [
+        [
+          58,
+          71,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Francisco Azevedo compareceu em consulta no dia 26/04/23 das 13:54 às 12:34, sendo diagnosticado with CID D220. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 23791.",
+    {
+      "entities": [
+        [
+          56,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Ana da Cunha compareceu em consulta no dia 28/02/1990 das 08:44 às 04:27, sendo diagnosticado with CID J02. Recomendado afastamento de 6 dias de suas atividades. CRM do profissional responsável: 16461.",
+    {
+      "entities": [
+        [
+          58,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Sra. Larissa Aragão compareceu em consulta no dia 09/02/2023 das 08:53 às 21:23, sendo diagnosticado with CID A73.0. Recomendado afastamento de 11 dias de suas atividades. CRM do profissional responsável: CREFITO - 145389.",
+    {
+      "entities": [
+        [
+          64,
+          82,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO\nDeclaro para os devidos fins that o(a) paciente Davi Lucca Campos compareceu em consulta no dia 14/12/2022 das 00:19 às 10:22, sendo diagnosticado with CID M23.9. Recomendado afastamento de 60 (SESSENTA) DIAS de suas atividades. CRM do profissional responsável: 12841-BA.",
+    {
+      "entities": [
+        [
+          64,
+          85,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO\nDeclaro para os devidos fins that o(a) paciente Eduardo Mendes compareceu em consulta no dia 22/06/2023 das 05:18 às 18:16, sendo diagnosticado with CID F43.1. Recomendado afastamento de 7 dias de suas atividades. CRM do profissional responsável: 36491.",
+    {
+      "entities": [
+        [
+          64,
+          80,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Gabriel da Conceição compareceu em consulta no dia 07/07/2022 das 14:22 às 10:45, sendo diagnosticado with CID A09. Recomendado afastamento de 15\ndias de suas atividades. CRM do profissional responsável: 48581.",
+    {
+      "entities": [
+        [
+          56,
+          78,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Atesto que o(a) paciente Carla Beatriz de Souza esteve em atendimento no dia 07/07/2025 das 16:30 às 17:50. Diagnóstico: CID R87.8. CRM 88774-SP. Recomendado afastamento de 7 dias.",
+    {
+      "entities": [
+        [
+          42,
+          64,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Lorenzo Almeida compareceu em consulta no dia 05/02/2010 das 23:07 às 14:29, sendo diagnosticado with CID O72.8. Recomendado afastamento de 1 dias de suas atividades. CRM do profissional responsável: 16873.",
+    {
+      "entities": [
+        [
+          58,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Dr. Calebe Correia compareceu em consulta no dia 05/04/2023 das 06:32 às 01:33, sendo diagnosticado with CID I66.3. Recomendado afastamento de 14 dias de suas atividades. CRM do profissional responsável: 21446.",
+    {
+      "entities": [
+        [
+          62,
+          80,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Arthur Moraes compareceu em consulta no dia 07/08/ das 02:29 às 23:57, sendo diagnosticado with CID G44.2. Recomendado afastamento de 7 dias de suas atividades. CRM do profissional responsável: 36977.",
+    {
+      "entities": [
+        [
+          56,
+          71,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Srta. Giovanna Azevedo compareceu em consulta no dia 15/06/2023 das 21:58 às 22:55, sendo diagnosticado with CID F41. Recomendado afastamento de 1\n de suas atividades. CRM do profissional responsável: 34817.",
+    {
+      "entities": [
+        [
+          65,
+          85,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Bryan da Conceição compareceu em consulta no dia 23/01/2023 das 05:25 às 23:03, sendo diagnosticado with CID T784. Recomendado afastamento de 1 (Um.) dias de suas atividades. CRM do profissional responsável: 18513.",
+    {
+      "entities": [
+        [
+          56,
+          76,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Benjamin Caldeira compareceu em consulta no dia 10/12/2017 das 00:46 às 13:31, sendo diagnosticado with CID Y0.2. Recomendado afastamento de 2 dias de suas atividades. CRM do profissional responsável: 38536.",
+    {
+      "entities": [
+        [
+          58,
+          77,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Eduardo Correia compareceu em consulta no dia 15 de setembro de 2014 das 18:26 às 17:39, sendo diagnosticado with CID G56.0, M65.9. Recomendado afastamento de 11 dias de suas atividades. CRM do profissional responsável: 56.519.",
+    {
+      "entities": [
+        [
+          58,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Dr. Erick Duarte compareceu em consulta no dia 4 de julho de 2022 das 12:00 às 15:01, sendo diagnosticado with CID F 41.1. Recomendado afastamento de 1 (um) dia de suas atividades. CRM do profissional responsável: 08/20693.",
+    {
+      "entities": [
+        [
+          62,
+          78,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Kevin Ramos compareceu em consulta no dia 23/01/2023 das 00:33 às 20:50, sendo diagnosticado with CID T784. Recomendado afastamento de 1 (Um.) dias de suas atividades. CRM do profissional responsável: 18513.",
+    {
+      "entities": [
+        [
+          56,
+          69,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Atesto that o(a) paciente Eduardo Tavares esteve em atendimento no dia 15/10/2025 das 08:00 às 10:30. Diagnóstico: CID M54.5. CRM-PE: 34817. Recomendado afastamento de 1 dia.",
+    {
+      "entities": [
+        [
+          42,
+          57,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Leandro Fernandes compareceu em consulta no dia 07/07/2022 das 05:01 às 14:58, sendo diagnosticado with CID A09. Recomendado afastamento de 15\ndias de suas atividades. CRM do profissional responsável: 48581.",
+    {
+      "entities": [
+        [
+          56,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Atesto that o(a) paciente Carla Beatriz de Souza esteve em atendimento no dia 12/05/2023 das 10:45 às 12:00. Diagnóstico: CID R87.8. CRM-CE 22991. Recomendado afastamento de 5 dias.",
+    {
+      "entities": [
+        [
+          36,
+          58,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Amanda Ramos compareceu em consulta no dia 17/05/2023 das 21:08 às 01:34, sendo diagnosticado with CID M89.4. Recomendado afastamento de 7 dias de suas atividades. CRM do profissional responsável: 08/11751.",
+    {
+      "entities": [
+        [
+          56,
+          70,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente João Vitor Teixeira compareceu em consulta no dia 12/09/2023 das 18:56 às 10:34, sendo diagnosticado with CID R21.5. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 33079.",
+    {
+      "entities": [
+        [
+          58,
+          79,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Laura Mendes compareceu em consulta no dia 07/08/ das 05:14 às 05:56, sendo diagnosticado with CID G44.2. Recomendado afastamento de 6 dias de suas atividades. CRM do profissional responsável: 36977.",
+    {
+      "entities": [
+        [
+          56,
+          70,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Bruno Monteiro compareceu em consulta no dia 27/09/2023 das 16:51 às 11:22, sendo diagnosticado with CID I93.9. Recomendado afastamento de 12 dias de suas atividades. CRM do profissional responsável: CREFITO - 1913.",
+    {
+      "entities": [
+        [
+          58,
+          74,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Brenda Peixoto compareceu em consulta no dia 26/11/2018 das 08:29 às 20:20, sendo diagnosticado with CID S92.0. Recomendado afastamento de 5 dias de suas atividades. CRM do profissional responsável: 32613.",
+    {
+      "entities": [
+        [
+          58,
+          74,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Lavínia Jesus compareceu em consulta no dia 05/04/2023 das 11:31 às 08:01, sendo diagnosticado with CID I48.5. Recomendado afastamento de 5 dias de suas atividades. CRM do profissional responsável: 08/11751.",
+    {
+      "entities": [
+        [
+          56,
+          71,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Atesto that o(a) paciente Carla Beatriz de Souza esteve em atendimento no dia 07/07/2025 das 16:30 às 17:50. Diagnóstico: CID F41.0. CRM-SP: 45678. Recomendado afastamento de 2 dias.",
+    {
+      "entities": [
+        [
+          41,
+          63,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Vinicius Almeida compareceu em consulta no dia 09/02/2023 das 14:36 às 22:57, sendo diagnosticado with CID G70.0. Recomendado afastamento de 2 dias de suas atividades. CRM do profissional responsável: CREFITO - 145389.",
+    {
+      "entities": [
+        [
+          58,
+          76,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Pietra Dias compareceu em consulta no dia 25/01/2023 das 03:23 às 16:29, sendo diagnosticado with CID N54.0. Recomendado afastamento de 13 dias de suas atividades. CRM do profissional responsável: CRP 08/1175.",
+    {
+      "entities": [
+        [
+          56,
+          69,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Davi Luiz Aragão compareceu em consulta no dia 07/07/2022 das 21:02 às 14:57, sendo diagnosticado with CID A09. Recomendado afastamento de 15\ndias de suas atividades. CRM do profissional responsável: 48581.",
+    {
+      "entities": [
+        [
+          56,
+          74,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Sophie Araújo compareceu em consulta no dia 15/06/2023 das 07:56 às 09:13, sendo diagnosticado with CID F41. Recomendado afastamento de 1\n de suas atividades. CRM do profissional responsável: 34817.",
+    {
+      "entities": [
+        [
+          56,
+          71,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Danilo Azevedo compareceu em consulta no dia 10/06/2024 das 00:43 às 23:46, sendo diagnosticado with CID Z01.4. Recomendado afastamento de 6 dias de suas atividades. CRM do profissional responsável: 21871.",
+    {
+      "entities": [
+        [
+          58,
+          74,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Luiz Henrique da Paz compareceu em consulta no dia 06/09/2023 das 19:32 às 07:10, sendo diagnosticado with CID S10.1. Recomendado afastamento de 11 dias de suas atividades. CRM do profissional responsável: 23513.",
+    {
+      "entities": [
+        [
+          58,
+          80,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Thiago Freitas compareceu em consulta no dia 10/4/24 das 00:04 às 02:50, sendo diagnosticado with CID 2014. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 21165.",
+    {
+      "entities": [
+        [
+          58,
+          74,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Camila da Cunha compareceu em consulta no dia 05/04/2023 das 20:31 às 00:11, sendo diagnosticado with CID L53.4. Recomendado afastamento de 5 dias de suas atividades. CRM do profissional responsável: 10028.",
+    {
+      "entities": [
+        [
+          56,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Camila Melo compareceu em consulta no dia 22/05/2024 das 04:49 às 04:55, sendo diagnosticado with CID H17.7. Recomendado afastamento de 13 dias de suas atividades. CRM do profissional responsável: 21548.",
+    {
+      "entities": [
+        [
+          58,
+          71,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente João Lucas da Cruz compareceu em consulta no dia 11/10/2023 das 11:26 às 19:19, sendo diagnosticado with CID F93.0. Recomendado afastamento de 7 dias de suas atividades. CRM do profissional responsável: CREFITO - 191391.",
+    {
+      "entities": [
+        [
+          58,
+          78,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Luiz Felipe Correia compareceu em consulta no dia 09 de agosto de 2023 das 01:27 às 21:25, sendo diagnosticado with CID Q47.9. Recomendado afastamento de 13 dias de suas atividades. CRM do profissional responsável: 24693.",
+    {
+      "entities": [
+        [
+          58,
+          79,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Luiz Fernando da Cunha compareceu em consulta no dia 06/09/2023 das 14:33 às 16:46, sendo diagnosticado with CID O33.5. Recomendado afastamento de 14 dias de suas atividades. CRM do profissional responsável: 27040.",
+    {
+      "entities": [
+        [
+          58,
+          82,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Atesto that o(a) paciente Juliana Castro esteve em atendimento no dia 30/01/2024 das 16:30 às 17:50. Diagnóstico: CID M54.5. CRM-CE 22991. Recomendado afastamento de 5 dias.",
+    {
+      "entities": [
+        [
+          42,
+          56,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Bruno Silveira compareceu em consulta no dia 04/05/2020 das 22:11 às 22:10, sendo diagnosticado with CID E47.5. Recomendado afastamento de 12 dias de suas atividades. CRM do profissional responsável: 49167.",
+    {
+      "entities": [
+        [
+          58,
+          74,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Lucas Gabriel Cardoso compareceu em consulta no dia 08/05/2004 das 17:15 às 19:13, sendo diagnosticado with CID J61.3. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 47.690.",
+    {
+      "entities": [
+        [
+          56,
+          79,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO\nDeclaro para os devidos fins that o(a) paciente Ana Carolina Campos compareceu em consulta no dia 22/06/2023 das 06:34 às 23:26, sendo diagnosticado with CID H84.1. Recomendado afastamento de 7 dias de suas atividades. CRM do profissional responsável: 37708.",
+    {
+      "entities": [
+        [
+          64,
+          85,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Erick Monteiro compareceu em consulta no dia 15/01/2024 das 17:57 às 09:26, sendo diagnosticado with CID R074. Recomendado afastamento de 1 (Um.) dias de suas atividades. CRM do profissional responsável: 16017.",
+    {
+      "entities": [
+        [
+          56,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Ryan Fogaça compareceu em consulta no dia 05/04/2023 das 02:32 às 14:00, sendo diagnosticado with CID E57.4. Recomendado afastamento de 1 dias de suas atividades. CRM do profissional responsável: 08/11751.",
+    {
+      "entities": [
+        [
+          56,
+          69,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Camila Cardoso compareceu em consulta no dia 27/07/2000 das 20:50 às 23:21, sendo diagnosticado with CID B37.3. Recomendado afastamento de 1910212024\ndias de suas atividades. CRM do profissional responsável: 16461.",
+    {
+      "entities": [
+        [
+          58,
+          74,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Juan Vieira compareceu em consulta no dia 26/04/23 das 22:59 às 12:45, sendo diagnosticado with CID D220. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 23791.",
+    {
+      "entities": [
+        [
+          56,
+          69,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO\nDeclaro para os devidos fins that o(a) paciente Manuela Nunes compareceu em consulta no dia 04/07/24 das 05:40 às 06:28, sendo diagnosticado with CID U69.7. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 11886.",
+    {
+      "entities": [
+        [
+          64,
+          79,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Diego Silveira compareceu em consulta no dia 23/01/2023 das 21:13 às 23:41, sendo diagnosticado with CID T784. Recomendado afastamento de 1 (Um.) dias de suas atividades. CRM do profissional responsável: 18513.",
+    {
+      "entities": [
+        [
+          56,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO\nDeclaro para os devidos fins that o(a) paciente Ryan Azevedo compareceu em consulta no dia 15/07/2009 das 10:01 às 13:53, sendo diagnosticado with CID 2301. Recomendado afastamento de 4\ndias de suas atividades. CRM do profissional responsável: 16461.",
+    {
+      "entities": [
+        [
+          63,
+          77,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Manuela Correia compareceu em consulta no dia 09 de agosto de 2023 das 19:59 às 14:45, sendo diagnosticado with CID K76.6. Recomendado afastamento de 12 dias de suas atividades. CRM do profissional responsável: 24693.",
+    {
+      "entities": [
+        [
+          58,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Srta. Nicole Almeida compareceu em consulta no dia 05/04/2023 das 12:05 às 00:59, sendo diagnosticado with CID I27.7. Recomendado afastamento de 9 dias de suas atividades. CRM do profissional responsável: 08/11751.",
+    {
+      "entities": [
+        [
+          65,
+          83,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO\nDeclaro para os devidos fins that o(a) paciente Noah Viana compareceu em consulta no dia 14/12/2022 das 08:33 às 07:06, sendo diagnosticado with CID M23.9. Recomendado afastamento de 60 (SESSENTA) DIAS de suas atividades. CRM do profissional responsável: 12841-BA.",
+    {
+      "entities": [
+        [
+          64,
+          76,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Mariana Pereira compareceu em consulta no dia 12/06/1979 das 14:52 às 20:39, sendo diagnosticado with CID A09. Recomendado afastamento de  HORA de suas atividades. CRM do profissional responsável: 85985.",
+    {
+      "entities": [
+        [
+          58,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Dr. Raul Gonçalves compareceu em consulta no dia 05/04/2023 das 06:21 às 08:54, sendo diagnosticado with CID D63.5. Recomendado afastamento de 5 dias de suas atividades. CRM do profissional responsável: 08/11751.",
+    {
+      "entities": [
+        [
+          62,
+          81,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Sr. Lucas Farias compareceu em consulta no dia 11/10/2023 das 07:56 às 21:46, sendo diagnosticado with CID G1.6. Recomendado afastamento de 8 dias de suas atividades. CRM do profissional responsável: CREFITO - 191391.",
+    {
+      "entities": [
+        [
+          62,
+          78,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Alícia Silveira compareceu em consulta no dia 11/10/2023 das 17:06 às 10:39, sendo diagnosticado with CID E54.2. Recomendado afastamento de 11 dias de suas atividades. CRM do profissional responsável: CREFITO - 191391.",
+    {
+      "entities": [
+        [
+          58,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Atesto that o(a) paciente João Pedro da Silva esteve em atendimento no dia 05/04/2023 das 16:30 às 17:50. Diagnóstico: CID T77.8. CRM-PE: 34817. Recomendado afastamento de 3 dias.",
+    {
+      "entities": [
+        [
+          36,
+          55,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Srta. Fernanda Lima compareceu em consulta no dia 20/12/2023 das 16:33 às 06:27, sendo diagnosticado with CID 10 Z012. Recomendado afastamento de 6 dias de suas atividades. CRM do profissional responsável: CRC: 9978.",
+    {
+      "entities": [
+        [
+          65,
+          82,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Atesto that o(a) paciente Lucas Almeida esteve em atendimento no dia 23/09/2022 das 07:00 às 08:45. Diagnóstico: CID A09. CRM-SP: 45678. Recomendado afastamento de 5 dias.",
+    {
+      "entities": [
+        [
+          36,
+          49,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Maria Cecília Fernandes compareceu em consulta no dia 03/02/2023 das 04:52 às 02:39, sendo diagnosticado with CID E94.9. Recomendado afastamento de 4 dias de suas atividades. CRM do profissional responsável: (CREFITO - 842914).",
+    {
+      "entities": [
+        [
+          58,
+          83,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Atesto that o(a) paciente Carla Beatriz de Souza esteve em atendimento no dia 05/04/2023 das 07:00 às 08:45. Diagnóstico: CID T77.8. CRM-CE 22991. Recomendado afastamento de 1 dia.",
+    {
+      "entities": [
+        [
+          41,
+          63,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Atesto that o(a) paciente Bruno Rocha esteve em atendimento no dia 15/10/2025 das 16:30 às 17:50. Diagnóstico: CID Q15.7. CRM-SP: 45678. Recomendado afastamento de 10 dias.",
+    {
+      "entities": [
+        [
+          42,
+          53,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO\nDeclaro para os devidos fins that o(a) paciente Joaquim da Cunha compareceu em consulta no dia 10/06/2024 das 15:55 às 22:26, sendo diagnosticado with CID Z01.4. Recomendado afastamento de 1 dias de suas atividades. CRM do profissional responsável: 21871.",
+    {
+      "entities": [
+        [
+          64,
+          82,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Camila Campos compareceu em consulta no dia 26/04/23 das 14:26 às 01:57, sendo diagnosticado with CID D220. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 23791.",
+    {
+      "entities": [
+        [
+          56,
+          71,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Luana da Rocha compareceu em consulta no dia 26/04/23 das 01:23 às 19:08, sendo diagnosticado with CID D220. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 23791.",
+    {
+      "entities": [
+        [
+          56,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Ana Carolina Nunes compareceu em consulta no dia 08/05/2004 das 13:09 às 05:51, sendo diagnosticado with CID V24.9. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 47.690.",
+    {
+      "entities": [
+        [
+          56,
+          76,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Gabriela da Rocha compareceu em consulta no dia 09/02/2023 das 12:58 às 16:11, sendo diagnosticado with CID Y8.1. Recomendado afastamento de 1 dias de suas atividades. CRM do profissional responsável: CREFITO - 145389.",
+    {
+      "entities": [
+        [
+          58,
+          77,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Atesto that o(a) paciente Bruno Rocha esteve em atendimento no dia 05/04/2023 das 10:45 às 12:00. Diagnóstico: CID G43.1. CRM-PE: 34817. Recomendado afastamento de 5 dias.",
+    {
+      "entities": [
+        [
+          36,
+          47,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Larissa Sales compareceu em consulta no dia 09 de agosto de 2023 das 16:25 às 02:02, sendo diagnosticado with CID V82.2. Recomendado afastamento de 5 dias de suas atividades. CRM do profissional responsável: 24693.",
+    {
+      "entities": [
+        [
+          58,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Guilherme Pinto compareceu em consulta no dia 05/04/2023 das 07:20 às 18:21, sendo diagnosticado with CID B79.1. Recomendado afastamento de 1 dias de suas atividades. CRM do profissional responsável: 08/11751.",
+    {
+      "entities": [
+        [
+          56,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO\nDeclaro para os devidos fins that o(a) paciente Nicolas Correia compareceu em consulta no dia 22/06/2023 das 13:19 às 06:41, sendo diagnosticado with CID F40.5. Recomendado afastamento de 7 dias de suas atividades. CRM do profissional responsável: 15396.",
+    {
+      "entities": [
+        [
+          63,
+          80,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO\nDeclaro para os devidos fins that o(a) paciente Ian Ferreira compareceu em consulta no dia 25/05/22 das 09:38 às 05:17, sendo diagnosticado with CID C94.1. Recomendado afastamento de 5 dias de suas atividades. CRM do profissional responsável: 32.284.",
+    {
+      "entities": [
+        [
+          63,
+          77,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Atesto that o(a) paciente Bruno Rocha esteve em atendimento no dia 05/04/2023 das 07:00 às 08:45. Diagnóstico: CID K21.0. CRM-PE: 34817. Recomendado afastamento de 4 dias.",
+    {
+      "entities": [
+        [
+          41,
+          52,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Maria Sophia da Mata compareceu em consulta no dia 05/04/2023 das 22:40 às 12:34, sendo diagnosticado with CID N19.7. Recomendado afastamento de 3 dias de suas atividades. CRM do profissional responsável: 22834.",
+    {
+      "entities": [
+        [
+          56,
+          78,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Ana Carolina Carvalho compareceu em consulta no dia 09/02/2023 das 22:27 às 12:16, sendo diagnosticado with CID H14.0. Recomendado afastamento de 8 dias de suas atividades. CRM do profissional responsável: CREFITO - 145389.",
+    {
+      "entities": [
+        [
+          58,
+          81,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Bernardo Ramos compareceu em consulta no dia 05/04/2023 das 09:53 às 15:56, sendo diagnosticado with CID T43.4. Recomendado afastamento de 4 dias de suas atividades. CRM do profissional responsável: 08/11751.",
+    {
+      "entities": [
+        [
+          56,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO\nDeclaro para os devidos fins that o(a) paciente Bruna Cardoso compareceu em consulta no dia 22/06/2023 das 19:13 às 12:00, sendo diagnosticado with CID V20.9. Recomendado afastamento de 7 dias de suas atividades. CRM do profissional responsável: 43394.",
+    {
+      "entities": [
+        [
+          63,
+          78,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Breno Barbosa compareceu em consulta no dia 17/05/2023 das 11:35 às 04:52, sendo diagnosticado with CID U64.8. Recomendado afastamento de 1 dias de suas atividades. CRM do profissional responsável: 08/11751.",
+    {
+      "entities": [
+        [
+          56,
+          71,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Alice da Mota compareceu em consulta no dia 22/05/2024 das 03:36 às 22:37, sendo diagnosticado with CID H12.7. Recomendado afastamento de 3 dias de suas atividades. CRM do profissional responsável: 21548.",
+    {
+      "entities": [
+        [
+          58,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Marcela Costela compareceu em consulta no dia 30/12/2023 das 07:49 às 15:42, sendo diagnosticado with CID Z76,3. Recomendado afastamento de 15 dias de suas atividades. CRM do profissional responsável: 15139.",
+    {
+      "entities": [
+        [
+          56,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente João Gabriel Gonçalves compareceu em consulta no dia 12/08/2006 das 22:25 às 19:06, sendo diagnosticado with CID J02. Recomendado afastamento de 6 dias de suas atividades. CRM do profissional responsável: 16461.",
+    {
+      "entities": [
+        [
+          58,
+          82,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO\nDeclaro para os devidos fins that o(a) paciente Paulo Gonçalves compareceu em consulta no dia 04/07/24 das 09:29 às 09:31, sendo diagnosticado with CID X63.2. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 35044.",
+    {
+      "entities": [
+        [
+          64,
+          81,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Ana Julia da Rosa compareceu em consulta no dia 09 de agosto de 2023 das 11:51 às 02:02, sendo diagnosticado with CID E95.1. Recomendado afastamento de 6 dias de suas atividades. CRM do profissional responsável: 24693.",
+    {
+      "entities": [
+        [
+          58,
+          77,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO\nDeclaro para os devidos fins that o(a) paciente Raquel da Cruz compareceu em consulta no dia 01/09/1977 das 11:48 às 12:44, sendo diagnosticado with CID 2301. Recomendado afastamento de 4\ndias de suas atividades. CRM do profissional responsável: 16461.",
+    {
+      "entities": [
+        [
+          64,
+          80,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO\nDeclaro para os devidos fins that o(a) paciente Bárbara da Mota compareceu em consulta no dia 25/05/22 das 08:22 às 19:24, sendo diagnosticado with CID K19.3. Recomendado afastamento de 2 dias de suas atividades. CRM do profissional responsável: 32.284.",
+    {
+      "entities": [
+        [
+          64,
+          81,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Kamilly Pinto compareceu em consulta no dia 27/09/2023 das 10:43 às 20:32, sendo diagnosticado with CID K38.8. Recomendado afastamento de 14 dias de suas atividades. CRM do profissional responsável: CREFITO - 1913.",
+    {
+      "entities": [
+        [
+          58,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Atesto that o(a) paciente Juliana Castro esteve em atendimento no dia 23/09/2022 das 10:45 às 12:00. Diagnóstico: CID L86.0. CRM-CE 22991. Recomendado afastamento de 4 dias.",
+    {
+      "entities": [
+        [
+          42,
+          56,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Noah da Luz compareceu em consulta no dia 12/06/1979 das 21:58 às 16:07, sendo diagnosticado with CID A09. Recomendado afastamento de  HORA de suas atividades. CRM do profissional responsável: 85985.",
+    {
+      "entities": [
+        [
+          58,
+          71,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Atesto that o(a) paciente João Pedro da Silva esteve em atendimento no day 07/07/2025 das 08:00 às 10:30. Diagnóstico: CID Q15.7. CRM-SP: 45678. Recomendado afastamento de 2 dias.",
+    {
+      "entities": [
+        [
+          42,
+          61,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO\nDeclaro para os devidos fins that o(a) paciente Renan Almeida compareceu em consulta no dia 14/12/2022 das 15:49 às 05:20, sendo diagnosticado with CID M23.9. Recomendado afastamento de 60 (SESSENTA) DIAS de suas atividades. CRM do profissional responsável: 12841-BA.",
+    {
+      "entities": [
+        [
+          64,
+          79,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Noah da Mota compareceu em consulta no dia 27/09/2023 das 10:22 às 08:14, sendo diagnosticado with CID Z12.4. Recomendado afastamento de 3 dias de suas atividades. CRM do profissional responsável: CREFITO - 1913.",
+    {
+      "entities": [
+        [
+          58,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Cecília da Luz compareceu em consulta no dia 17/05/2023 das 14:17 às 10:13, sendo diagnosticado with CID K9.2. Recomendado afastamento de 5 dias de suas atividades. CRM do profissional responsável: 08/11751.",
+    {
+      "entities": [
+        [
+          56,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Maria Fernanda da Mota compareceu em consulta no dia 15/01/2024 das 22:58 às 06:37, sendo diagnosticado with CID R074. Recomendado afastamento de 1 (Um.) dias de suas atividades. CRM do profissional responsável: 16017.",
+    {
+      "entities": [
+        [
+          56,
+          80,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Atesto that o(a) paciente Carla Beatriz de Souza esteve em atendimento no dia 12/05/2023 das 10:45 às 12:00. Diagnóstico: CID K21.0. CRM-BA: 11223. Recomendado afastamento de 1 dia.",
+    {
+      "entities": [
+        [
+          41,
+          63,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Atesto that o(a) paciente Juliana Castro esteve em atendimento no dia 01/03/2024 das 14:10 às 15:35. Diagnóstico: CID R87.8. CRM-SP: 45678. Recomendado afastamento de 1 dia.",
+    {
+      "entities": [
+        [
+          42,
+          56,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Davi Luiz Moraes compareceu em consulta no dia 30/12/2023 das 09:31 às 17:31, sendo diagnosticado with CID Z76,3. Recomendado afastamento de 15 dias de suas atividades. CRM do profissional responsável: 15139.",
+    {
+      "entities": [
+        [
+          56,
+          74,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Nicolas Costela compareceu em consulta no dia 30/12/2023 das 20:04 às 23:37, sendo diagnosticado with CID Z76,3. Recomendado afastamento de 15 dias de suas atividades. CRM do profissional responsável: 15139.",
+    {
+      "entities": [
+        [
+          56,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Emanuella Cunha compareceu em consulta no dia 06/09/2023 das 23:30 às 19:21, sendo diagnosticado with CID Y87.9. Recomendado afastamento de 8 dias de suas atividades. CRM do profissional responsável: 14432.",
+    {
+      "entities": [
+        [
+          58,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Maria Alice Cardoso compareceu em consulta no dia 12/09/2023 das 21:39 às 03:34, sendo diagnosticado with CID T5.5. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 16687.",
+    {
+      "entities": [
+        [
+          58,
+          79,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Enzo Gabriel Melo compareceu em consulta no dia 26/04/23 das 22:13 às 15:37, sendo diagnosticado with CID D220. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 23791.",
+    {
+      "entities": [
+        [
+          56,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Sabrina Lima compareceu em consulta no dia 09 de agosto de 2023 das 16:23 às 22:20, sendo diagnosticado with CID H91.6. Recomendado afastamento de 8 dias de suas atividades. CRM do profissional responsável: 24693.",
+    {
+      "entities": [
+        [
+          58,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO\nDeclaro para os devidos fins that o(a) paciente Mariane Viana compareceu em consulta no dia 27/11/1998 das 14:14 às 19:14, sendo diagnosticado with CID J02. Recomendado afastamento de 6 dias de suas atividades. CRM do profissional responsável: 16461.",
+    {
+      "entities": [
+        [
+          63,
+          78,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO\nDeclaro para os devidos fins that o(a) paciente Sabrina da Mota compareceu em consulta no dia 06/02/2023 das 06:38 às 03:03, sendo diagnosticado with CID V70.0. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: RN-PR: 7911.",
+    {
+      "entities": [
+        [
+          63,
+          80,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Alice Porto compareceu em consulta no dia 07/08/ das 05:02 às 08:04, sendo diagnosticado with CID G44.2. Recomendado afastamento de 4 dias de suas atividades. CRM do profissional responsável: 36977.",
+    {
+      "entities": [
+        [
+          56,
+          69,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Beatriz Nogueira compareceu em consulta no dia 08/05/2008 das 11:05 às 22:14, sendo diagnosticado with CID E44.7. Recomendado afastamento de 14 dias de suas atividades. CRM do profissional responsável: 45252.",
+    {
+      "entities": [
+        [
+          58,
+          76,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Emanuelly da Conceição compareceu em consulta no dia 15 de setembro de 2014 das 11:28 às 18:18, sendo diagnosticado with CID G56.0, M65.9. Recomendado afastamento de 9 dias de suas atividades. CRM do profissional responsável: 56.519.",
+    {
+      "entities": [
+        [
+          58,
+          82,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO\nDeclaro para os devidos fins that o(a) paciente Raul da Mota compareceu em consulta no dia 12/06/1974 das 07:21 às 14:33, sendo diagnosticado with CID 2301. Recomendado afastamento de 4\ndias de suas atividades. CRM do profissional responsável: 16461.",
+    {
+      "entities": [
+        [
+          63,
+          77,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Isabel Moraes compareceu em consulta no dia 09/02/2023 das 09:45 às 02:56, sendo diagnosticado with CID Y16.8. Recomendado afastamento de 1 dias de suas atividades. CRM do profissional responsável: CREFITO - 145389.",
+    {
+      "entities": [
+        [
+          58,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO\nDeclaro para os devidos fins that o(a) paciente Srta. Luana Ferreira compareceu em consulta no dia 20/03/1971 das 15:36 às 06:00, sendo diagnosticado with CID J02. Recomendado afastamento de 6 dias de suas atividades. CRM do profissional responsável: 16461.",
+    {
+      "entities": [
+        [
+          67,
+          85,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Srta. Maria Sophia Vieira compareceu em consulta no dia 15/01/2024 das 17:33 às 01:48, sendo diagnosticado with CID R074. Recomendado afastamento de 1 (Um.) dias de suas atividades. CRM do profissional responsável: 16017.",
+    {
+      "entities": [
+        [
+          65,
+          91,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Atesto that o(a) paciente Rafael Andrade esteve em atendimento no dia 15/10/2025 das 07:00 às 08:45. Diagnóstico: CID M54.5. CRM-RJ 99887. Recomendado afastamento de 1 dia.",
+    {
+      "entities": [
+        [
+          41,
+          55,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Srta. Lavínia Carvalho compareceu em consulta no dia 03/02/2023 das 16:06 às 09:58, sendo diagnosticado with CID H15.1. Recomendado afastamento de 6 dias de suas atividades. CRM do profissional responsável: (CREFITO - 842914).",
+    {
+      "entities": [
+        [
+          65,
+          87,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Dr. Benjamin Silva compareceu em consulta no dia 12/09/2023 das 06:17 às 10:35, sendo diagnosticado with CID A96.2. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 49224.",
+    {
+      "entities": [
+        [
+          62,
+          81,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Luiz Gustavo da Mata compareceu em consulta no dia 30/12/2023 das 23:57 às 18:36, sendo diagnosticado with CID Z76,3. Recomendado afastamento de 15 dias de suas atividades. CRM do profissional responsável: 15139.",
+    {
+      "entities": [
+        [
+          56,
+          78,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Enzo da Cunha compareceu em consulta no dia 26/01/2023 das 09:23 às 15:20, sendo diagnosticado with CID C3.3. Recomendado afastamento de 1 dias de suas atividades. CRM do profissional responsável: CREFITO - 842914.",
+    {
+      "entities": [
+        [
+          58,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO\nDeclaro para os devidos fins that o(a) paciente Paulo Rocha compareceu em consulta no dia 10/4/24 das 22:35 às 20:34, sendo diagnosticado with CID 2014. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 21165.",
+    {
+      "entities": [
+        [
+          63,
+          76,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO\nDeclaro para os devidos fins that o(a) paciente João Guilherme Jesus compareceu em consulta no dia 25/05/22 das 15:49 às 09:59, sendo diagnosticado with CID A51.4. Recomendado afastamento de 11 dias de suas atividades. CRM do profissional responsável: 32.284.",
+    {
+      "entities": [
+        [
+          63,
+          85,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Dr. Juan Pires compareceu em consulta no dia 03/02/2023 das 19:44 às 12:15, sendo diagnosticado with CID S26.5. Recomendado afastamento de 5 dias de suas atividades. CRM do profissional responsável: (CREFITO - 842914).",
+    {
+      "entities": [
+        [
+          62,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Sra. Melissa Carvalho compareceu em consulta no dia 20/12/2023 das 12:22 às 09:23, sendo diagnosticado with CID 10 Z012. Recomendado afastamento de 8 dias de suas atividades. CRM do profissional responsável: CRC: 9978.",
+    {
+      "entities": [
+        [
+          64,
+          85,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Sr. Vicente da Mata compareceu em consulta no dia 30/12/2023 das 08:17 às 06:01, sendo diagnosticado with CID Z76,3. Recomendado afastamento de 15 dias de suas atividades. CRM do profissional responsável: 15139.",
+    {
+      "entities": [
+        [
+          62,
+          82,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Dra. Bruna Pereira compareceu em consulta no dia 22/08/2014 das 07:53 às 10:38, sendo diagnosticado with CID H92.4. Recomendado afastamento de 1 dias de suas atividades. CRM do profissional responsável: 96519.",
+    {
+      "entities": [
+        [
+          64,
+          81,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Diogo Teixeira compareceu em consulta no dia 03/02/2023 das 13:05 às 14:54, sendo diagnosticado with CID I50.5. Recomendado afastamento de 12 dias de suas atividades. CRM do profissional responsável: (CREFITO - 842914).",
+    {
+      "entities": [
+        [
+          58,
+          74,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Maria Sophia Cardoso compareceu em consulta no dia 4 de julho de 2022 das 14:00 às 19:04, sendo diagnosticado with CID F 41.1. Recomendado afastamento de 1 (um) dia de suas atividades. CRM do profissional responsável: 08/20693.",
+    {
+      "entities": [
+        [
+          56,
+          78,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Atesto that o(a) paciente Eduardo Tavares esteve em atendimento no dia 12/05/2023 das 07:00 às 08:45. Diagnóstico: CID Q15.7. CRM-SP: 45678. Recomendado afastamento de 7 dias.",
+    {
+      "entities": [
+        [
+          36,
+          51,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Brenda Pires compareceu em consulta no dia 15 de setembro de 2014 das 01:04 às 06:24, sendo diagnosticado with CID G56.0, M65.9. Recomendado afastamento de 2 dias de suas atividades. CRM do profissional responsável: 56.519.",
+    {
+      "entities": [
+        [
+          58,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Sr. Cauê Barbosa compareceu em consulta no dia 05/04/2023 das 08:50 às 18:30, sendo diagnosticado with CID M50.2. Recomendado afastamento de 2 dias de suas atividades. CRM do profissional responsável: 27441.",
+    {
+      "entities": [
+        [
+          62,
+          80,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Vitor Gabriel Jesus compareceu em consulta no dia 10/4/24 das 23:04 às 13:42, sendo diagnosticado with CID 2014. Recomendado afastamento de horas de suas atividades. CRM do profissional responsável: 21165.",
+    {
+      "entities": [
+        [
+          58,
+          79,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO\nDeclaro para os devidos fins that o(a) paciente Srta. Ana Carolina Fogaça compareceu em consulta no dia 06/05/1988 das 13:26 às 05:13, sendo diagnosticado with CID B37.3. Recomendado afastamento de 1910212024\ndias de suas atividades. CRM do profissional responsável: 16461.",
+    {
+      "entities": [
+        [
+          65,
+          90,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Sofia Viana compareceu em consulta no dia 23/01/2023 das 10:12 às 01:53, sendo diagnosticado with CID T784. Recomendado afastamento de 1 (Um.) dias de suas atividades. CRM do profissional responsável: 18513.",
+    {
+      "entities": [
+        [
+          56,
+          69,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Júlia da Paz compareceu em consulta no dia 05/04/2023 das 05:30 às 22:31, sendo diagnosticado with CID P5.7. Recomendado afastamento de 10 dias de suas atividades. CRM do profissional responsável: 08/11751.",
+    {
+      "entities": [
+        [
+          56,
+          70,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO\nDeclaro para os devidos fins that o(a) paciente Ana Moura compareceu em consulta no dia 25/01/2023 das 09:43 às 04:21, sendo diagnosticado with CID M90.8. Recomendado afastamento de 5 dias de suas atividades. CRM do profissional responsável: CRP 08/1175.",
+    {
+      "entities": [
+        [
+          56,
+          67,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO Declaro que Juliana Santos Oliveira esteve em atendimento no dia 12/08/2024.",
+    {
+      "entities": [
+        [
+          21,
+          44,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Informo que Rafael Pereira Lima foi examinado(a) em nossa clínica.",
+    {
+      "entities": [
+        [
+          29,
+          48,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RECEITUÁRIO MÉDICO Prescrevo tratamento ao paciente Amanda Costa Silveira.",
+    {
+      "entities": [
+        [
+          52,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Declaro que Rodrigo Pereira Almeida esteve em consulta e necessita repouso.",
+    {
+      "entities": [
+        [
+          28,
+          51,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO Atesto para os devidos fins que Carlos Eduardo Mendonça esteve sob meus cuidados.",
+    {
+      "entities": [
+        [
+          41,
+          64,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Confirmo que o(a) paciente Carlos Eduardo Mendonça passou por consulta médica.",
+    {
+      "entities": [
+        [
+          38,
+          61,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RECEITUÁRIO MÉDICO Prescrevo tratamento ao paciente Fernanda Lima.",
+    {
+      "entities": [
+        [
+          52,
+          65,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Confirmo que o(a) paciente Vitória Brenda Lustosa Silva passou por consulta médica.",
+    {
+      "entities": [
+        [
+          38,
+          66,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ENCAMINHAMENTO Encaminho o(a) paciente Ana Paula Costa para acompanhamento médico.",
+    {
+      "entities": [
+        [
+          39,
+          54,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Confirmo que o(a) paciente Ana Paula Costa passou por consulta médica.",
+    {
+      "entities": [
+        [
+          38,
+          53,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "CONSULTA Registro que Fernanda Lima realizou avaliação clínica nesta unidade.",
+    {
+      "entities": [
+        [
+          22,
+          35,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Informo que Yara Lustosa dos Santos foi examinado(a) em nossa clínica.",
+    {
+      "entities": [
+        [
+          29,
+          52,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RECEITUÁRIO MÉDICO Prescrevo tratamento ao paciente Daniel Souza Lima.",
+    {
+      "entities": [
+        [
+          52,
+          69,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "CONSULTA Registro que Amanda Costa Silveira realizou avaliação clínica nesta unidade.",
+    {
+      "entities": [
+        [
+          22,
+          43,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Confirmo que o(a) paciente Carlos Eduardo Mendonça passou por consulta médica.",
+    {
+      "entities": [
+        [
+          38,
+          61,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Confirmo que o(a) paciente João Silva passou por consulta médica.",
+    {
+      "entities": [
+        [
+          38,
+          48,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Confirmo que o(a) paciente Ana Paula Costa passou por consulta médica.",
+    {
+      "entities": [
+        [
+          38,
+          53,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Informo que Carlos Eduardo Mendonça foi examinado(a) em nossa clínica.",
+    {
+      "entities": [
+        [
+          29,
+          52,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Informo que Rodrigo Pereira Almeida foi examinado(a) em nossa clínica.",
+    {
+      "entities": [
+        [
+          29,
+          52,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Informo que Fernanda Lima foi examinado(a) em nossa clínica.",
+    {
+      "entities": [
+        [
+          29,
+          42,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Confirmo que o(a) paciente Yara Lustosa dos Santos passou por consulta médica.",
+    {
+      "entities": [
+        [
+          38,
+          61,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Confirmo que o(a) paciente Patrícia Ribeiro Martins passou por consulta médica.",
+    {
+      "entities": [
+        [
+          38,
+          62,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO Declaro que Ana Paula Costa esteve em atendimento no dia 12/08/2024.",
+    {
+      "entities": [
+        [
+          21,
+          36,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO Declaro que Yara Lustosa dos Santos esteve em atendimento no dia 12/08/2024.",
+    {
+      "entities": [
+        [
+          21,
+          44,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Confirmo que o(a) paciente João Silva passou por consulta médica.",
+    {
+      "entities": [
+        [
+          38,
+          48,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RECEITUÁRIO MÉDICO Prescrevo tratamento ao paciente Yara Lustosa dos Santos.",
+    {
+      "entities": [
+        [
+          52,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Confirmo que o(a) paciente Carlos Eduardo Mendonça passou por consulta médica.",
+    {
+      "entities": [
+        [
+          38,
+          61,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO Declaro que Gustavo Henrique Martins esteve em atendimento no dia 12/08/2024.",
+    {
+      "entities": [
+        [
+          21,
+          45,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO Atesto para os devidos fins que Vitória Brenda Lustosa Silva esteve sob meus cuidados.",
+    {
+      "entities": [
+        [
+          41,
+          69,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Declaro que Yara Lustosa dos Santos esteve em consulta e necessita repouso.",
+    {
+      "entities": [
+        [
+          28,
+          51,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Declaro que Beatriz Ribeiro Costa esteve em consulta e necessita repouso.",
+    {
+      "entities": [
+        [
+          28,
+          49,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Declaro que Juliana Santos Oliveira esteve em consulta e necessita repouso.",
+    {
+      "entities": [
+        [
+          28,
+          51,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Informo que Ana Paula Costa foi examinado(a) em nossa clínica.",
+    {
+      "entities": [
+        [
+          29,
+          44,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ENCAMINHAMENTO Encaminho o(a) paciente Rodrigo Pereira Almeida para acompanhamento médico.",
+    {
+      "entities": [
+        [
+          39,
+          62,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Informo que Pedro Henrique Barbosa foi examinado(a) em nossa clínica.",
+    {
+      "entities": [
+        [
+          29,
+          51,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Confirmo que o(a) paciente Daniel Souza Lima passou por consulta médica.",
+    {
+      "entities": [
+        [
+          38,
+          55,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "CONSULTA Registro que Patrícia Ribeiro Martins realizou avaliação clínica nesta unidade.",
+    {
+      "entities": [
+        [
+          22,
+          46,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Declaro que Amanda Costa Silveira esteve em consulta e necessita repouso.",
+    {
+      "entities": [
+        [
+          28,
+          49,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Confirmo que o(a) paciente Lucas Oliveira Rocha passou por consulta médica.",
+    {
+      "entities": [
+        [
+          38,
+          58,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Declaro que Daniel Souza Lima esteve em consulta e necessita repouso.",
+    {
+      "entities": [
+        [
+          28,
+          45,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO Atesto para os devidos fins que Carlos Eduardo Mendonça esteve sob meus cuidados.",
+    {
+      "entities": [
+        [
+          41,
+          64,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO Atesto para os devidos fins que Daniel Souza Lima esteve sob meus cuidados.",
+    {
+      "entities": [
+        [
+          41,
+          58,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Informo que Maria Souza foi examinado(a) em nossa clínica.",
+    {
+      "entities": [
+        [
+          29,
+          40,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Confirmo que o(a) paciente Lucas Oliveira Rocha passou por consulta médica.",
+    {
+      "entities": [
+        [
+          38,
+          58,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "CONSULTA Registro que Maria Souza realizou avaliação clínica nesta unidade.",
+    {
+      "entities": [
+        [
+          22,
+          33,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Declaro que João Silva esteve em consulta e necessita repouso.",
+    {
+      "entities": [
+        [
+          28,
+          38,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Declaro que Amanda Costa Silveira esteve em consulta e necessita repouso.",
+    {
+      "entities": [
+        [
+          28,
+          49,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Informo que Flávio Augusto Bernaski da Silva foi examinado(a) em nossa clínica.",
+    {
+      "entities": [
+        [
+          29,
+          61,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Confirmo que o(a) paciente Beatriz Ribeiro Costa passou por consulta médica.",
+    {
+      "entities": [
+        [
+          38,
+          59,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RECEITUÁRIO MÉDICO Prescrevo tratamento ao paciente João Silva.",
+    {
+      "entities": [
+        [
+          52,
+          62,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Confirmo que o(a) paciente Anderson Bispo dos Santos passou por consulta médica.",
+    {
+      "entities": [
+        [
+          38,
+          63,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO Atesto para os devidos fins que Amanda Costa Silveira esteve sob meus cuidados.",
+    {
+      "entities": [
+        [
+          41,
+          62,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ENCAMINHAMENTO Encaminho o(a) paciente Vitória Brenda Lustosa Silva para acompanhamento médico.",
+    {
+      "entities": [
+        [
+          39,
+          67,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO Atesto para os devidos fins que Marcos Vinicius Oliveira esteve sob meus cuidados.",
+    {
+      "entities": [
+        [
+          41,
+          65,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO Atesto para os devidos fins que Lucas Oliveira Rocha esteve sob meus cuidados.",
+    {
+      "entities": [
+        [
+          41,
+          61,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO Declaro que Beatriz Ribeiro Costa esteve em atendimento no dia 12/08/2024.",
+    {
+      "entities": [
+        [
+          21,
+          42,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "CONSULTA Registro que João Silva realizou avaliação clínica nesta unidade.",
+    {
+      "entities": [
+        [
+          22,
+          32,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Informo que Yara Lustosa dos Santos foi examinado(a) em nossa clínica.",
+    {
+      "entities": [
+        [
+          29,
+          52,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RECEITUÁRIO MÉDICO Prescrevo tratamento ao paciente Rafael Pereira Lima.",
+    {
+      "entities": [
+        [
+          52,
+          71,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO Declaro que Yara Lustosa dos Santos esteve em atendimento no dia 12/08/2024.",
+    {
+      "entities": [
+        [
+          21,
+          44,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Informo que Daniel Souza Lima foi examinado(a) em nossa clínica.",
+    {
+      "entities": [
+        [
+          29,
+          46,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ENCAMINHAMENTO Encaminho o(a) paciente Sofia Raimunda Costa para acompanhamento médico.",
+    {
+      "entities": [
+        [
+          39,
+          59,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Informo que Patrícia Ribeiro Martins foi examinado(a) em nossa clínica.",
+    {
+      "entities": [
+        [
+          29,
+          53,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Confirmo que o(a) paciente Rodrigo Pereira Almeida passou por consulta médica.",
+    {
+      "entities": [
+        [
+          38,
+          61,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ENCAMINHAMENTO Encaminho o(a) paciente Anderson Bispo dos Santos para acompanhamento médico.",
+    {
+      "entities": [
+        [
+          39,
+          64,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO Declaro que Patrícia Ribeiro Martins esteve em atendimento no dia 12/08/2024.",
+    {
+      "entities": [
+        [
+          21,
+          45,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Declaro que Pedro Henrique Barbosa esteve em consulta e necessita repouso.",
+    {
+      "entities": [
+        [
+          28,
+          50,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ENCAMINHAMENTO Encaminho o(a) paciente Ana Paula Costa para acompanhamento médico.",
+    {
+      "entities": [
+        [
+          39,
+          54,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Confirmo que o(a) paciente Daniel Souza Lima passou por consulta médica.",
+    {
+      "entities": [
+        [
+          38,
+          55,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Informo que Maria Souza foi examinado(a) em nossa clínica.",
+    {
+      "entities": [
+        [
+          29,
+          40,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RECEITUÁRIO MÉDICO Prescrevo tratamento ao paciente Maria Souza.",
+    {
+      "entities": [
+        [
+          52,
+          63,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Informo que Carlos Eduardo Mendonça foi examinado(a) em nossa clínica.",
+    {
+      "entities": [
+        [
+          29,
+          52,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Declaro que Maria Souza esteve em consulta e necessita repouso.",
+    {
+      "entities": [
+        [
+          28,
+          39,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO Atesto para os devidos fins que Vitória Brenda Lustosa Silva esteve sob meus cuidados.",
+    {
+      "entities": [
+        [
+          41,
+          69,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RECEITUÁRIO MÉDICO Prescrevo tratamento ao paciente Lucas Oliveira Rocha.",
+    {
+      "entities": [
+        [
+          52,
+          72,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO Declaro que Juliana Santos Oliveira esteve em atendimento no dia 12/08/2024.",
+    {
+      "entities": [
+        [
+          21,
+          44,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "CONSULTA Registro que Rodrigo Pereira Almeida realizou avaliação clínica nesta unidade.",
+    {
+      "entities": [
+        [
+          22,
+          45,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Declaro que Ana Paula Costa esteve em consulta e necessita repouso.",
+    {
+      "entities": [
+        [
+          28,
+          43,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Informo que Carlos Eduardo Mendonça foi examinado(a) em nossa clínica.",
+    {
+      "entities": [
+        [
+          29,
+          52,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Informo que Sofia Raimunda Costa foi examinado(a) em nossa clínica.",
+    {
+      "entities": [
+        [
+          29,
+          49,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Declaro que Marcos Vinicius Oliveira esteve em consulta e necessita repouso.",
+    {
+      "entities": [
+        [
+          28,
+          52,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Informo que Maria Souza foi examinado(a) em nossa clínica.",
+    {
+      "entities": [
+        [
+          29,
+          40,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ENCAMINHAMENTO Encaminho o(a) paciente Fernanda Lima para acompanhamento médico.",
+    {
+      "entities": [
+        [
+          39,
+          52,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Informo que Fernanda Lima foi examinado(a) em nossa clínica.",
+    {
+      "entities": [
+        [
+          29,
+          42,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Confirmo que o(a) paciente Beatriz Ribeiro Costa passou por consulta médica.",
+    {
+      "entities": [
+        [
+          38,
+          59,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Declaro que Daniel Souza Lima esteve em consulta e necessita repouso.",
+    {
+      "entities": [
+        [
+          28,
+          45,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Declaro que Marcos Vinicius Oliveira esteve em consulta e necessita repouso.",
+    {
+      "entities": [
+        [
+          28,
+          52,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ENCAMINHAMENTO Encaminho o(a) paciente João Silva para acompanhamento médico.",
+    {
+      "entities": [
+        [
+          39,
+          49,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "CONSULTA Registro que Fernanda Lima realizou avaliação clínica nesta unidade.",
+    {
+      "entities": [
+        [
+          22,
+          35,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Declaro que Maria Souza esteve em consulta e necessita repouso.",
+    {
+      "entities": [
+        [
+          28,
+          39,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RECEITUÁRIO MÉDICO Prescrevo tratamento ao paciente Carlos Eduardo Mendonça.",
+    {
+      "entities": [
+        [
+          52,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO Atesto para os devidos fins que Maria Souza esteve sob meus cuidados.",
+    {
+      "entities": [
+        [
+          41,
+          52,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Declaro que Patrícia Ribeiro Martins esteve em consulta e necessita repouso.",
+    {
+      "entities": [
+        [
+          28,
+          52,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "CONSULTA Registro que Rafael Pereira Lima realizou avaliação clínica nesta unidade.",
+    {
+      "entities": [
+        [
+          22,
+          41,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Informo que Pedro Henrique Barbosa foi examinado(a) em nossa clínica.",
+    {
+      "entities": [
+        [
+          29,
+          51,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Declaro que Flávio Augusto Bernaski da Silva esteve em consulta e necessita repouso.",
+    {
+      "entities": [
+        [
+          28,
+          60,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Declaro que Carlos Eduardo Mendonça esteve em consulta e necessita repouso.",
+    {
+      "entities": [
+        [
+          28,
+          51,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "CONSULTA Registro que Ana Paula Costa realizou avaliação clínica nesta unidade.",
+    {
+      "entities": [
+        [
+          22,
+          37,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Declaro que Rodrigo Pereira Almeida esteve em consulta e necessita repouso.",
+    {
+      "entities": [
+        [
+          28,
+          51,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RECEITUÁRIO MÉDICO Prescrevo tratamento ao paciente Juliana Santos Oliveira.",
+    {
+      "entities": [
+        [
+          52,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO Declaro que João Silva esteve em atendimento no dia 12/08/2024.",
+    {
+      "entities": [
+        [
+          21,
+          31,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Confirmo que o(a) paciente Beatriz Ribeiro Costa passou por consulta médica.",
+    {
+      "entities": [
+        [
+          38,
+          59,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Informo que Yara Lustosa dos Santos foi examinado(a) em nossa clínica.",
+    {
+      "entities": [
+        [
+          29,
+          52,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RECEITUÁRIO MÉDICO Prescrevo tratamento ao paciente Ana Paula Costa.",
+    {
+      "entities": [
+        [
+          52,
+          67,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Informo que Amanda Costa Silveira foi examinado(a) em nossa clínica.",
+    {
+      "entities": [
+        [
+          29,
+          50,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO Atesto para os devidos fins que Anderson Bispo dos Santos esteve sob meus cuidados.",
+    {
+      "entities": [
+        [
+          41,
+          66,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "CONSULTA Registro que Daniel Souza Lima realizou avaliação clínica nesta unidade.",
+    {
+      "entities": [
+        [
+          22,
+          39,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Informo que Beatriz Ribeiro Costa foi examinado(a) em nossa clínica.",
+    {
+      "entities": [
+        [
+          29,
+          50,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "CONSULTA Registro que Anderson Bispo dos Santos realizou avaliação clínica nesta unidade.",
+    {
+      "entities": [
+        [
+          22,
+          47,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RECEITUÁRIO MÉDICO Prescrevo tratamento ao paciente Beatriz Ribeiro Costa.",
+    {
+      "entities": [
+        [
+          52,
+          73,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "CONSULTA Registro que Lucas Oliveira Rocha realizou avaliação clínica nesta unidade.",
+    {
+      "entities": [
+        [
+          22,
+          42,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Confirmo que o(a) paciente Anderson Bispo dos Santos passou por consulta médica.",
+    {
+      "entities": [
+        [
+          38,
+          63,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Confirmo que o(a) paciente Amanda Costa Silveira passou por consulta médica.",
+    {
+      "entities": [
+        [
+          38,
+          59,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Informo que Sofia Raimunda Costa foi examinado(a) em nossa clínica.",
+    {
+      "entities": [
+        [
+          29,
+          49,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Declaro que Amanda Costa Silveira esteve em consulta e necessita repouso.",
+    {
+      "entities": [
+        [
+          28,
+          49,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO Declaro que Beatriz Ribeiro Costa esteve em atendimento no dia 12/08/2024.",
+    {
+      "entities": [
+        [
+          21,
+          42,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Declaro que Vitória Brenda Lustosa Silva esteve em consulta e necessita repouso.",
+    {
+      "entities": [
+        [
+          28,
+          56,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Declaro que Amanda Costa Silveira esteve em consulta e necessita repouso.",
+    {
+      "entities": [
+        [
+          28,
+          49,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Informo que Ana Paula Costa foi examinado(a) em nossa clínica.",
+    {
+      "entities": [
+        [
+          29,
+          44,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "CONSULTA Registro que Juliana Santos Oliveira realizou avaliação clínica nesta unidade.",
+    {
+      "entities": [
+        [
+          22,
+          45,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "CONSULTA Registro que Patrícia Ribeiro Martins realizou avaliação clínica nesta unidade.",
+    {
+      "entities": [
+        [
+          22,
+          46,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ENCAMINHAMENTO Encaminho o(a) paciente Patrícia Ribeiro Martins para acompanhamento médico.",
+    {
+      "entities": [
+        [
+          39,
+          63,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO Atesto para os devidos fins que Marcos Vinicius Oliveira esteve sob meus cuidados.",
+    {
+      "entities": [
+        [
+          41,
+          65,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RECEITUÁRIO MÉDICO Prescrevo tratamento ao paciente Maria Souza.",
+    {
+      "entities": [
+        [
+          52,
+          63,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO Declaro que Pedro Henrique Barbosa esteve em atendimento no dia 12/08/2024.",
+    {
+      "entities": [
+        [
+          21,
+          43,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RECEITUÁRIO MÉDICO Prescrevo tratamento ao paciente Juliana Santos Oliveira.",
+    {
+      "entities": [
+        [
+          52,
+          75,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "CONSULTA Registro que Yara Lustosa dos Santos realizou avaliação clínica nesta unidade.",
+    {
+      "entities": [
+        [
+          22,
+          45,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Informo que Beatriz Ribeiro Costa foi examinado(a) em nossa clínica.",
+    {
+      "entities": [
+        [
+          29,
+          50,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Declaro que Lucas Oliveira Rocha esteve em consulta e necessita repouso.",
+    {
+      "entities": [
+        [
+          28,
+          48,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Informo que Gustavo Henrique Martins foi examinado(a) em nossa clínica.",
+    {
+      "entities": [
+        [
+          29,
+          53,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO Atesto para os devidos fins que Patrícia Ribeiro Martins esteve sob meus cuidados.",
+    {
+      "entities": [
+        [
+          41,
+          65,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO Declaro que Beatriz Ribeiro Costa esteve em atendimento no dia 12/08/2024.",
+    {
+      "entities": [
+        [
+          21,
+          42,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Confirmo que o(a) paciente Fernanda Lima passou por consulta médica.",
+    {
+      "entities": [
+        [
+          38,
+          51,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO Atesto para os devidos fins que Yara Lustosa dos Santos esteve sob meus cuidados.",
+    {
+      "entities": [
+        [
+          41,
+          64,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Informo que Ana Paula Costa foi examinado(a) em nossa clínica.",
+    {
+      "entities": [
+        [
+          29,
+          44,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RECEITUÁRIO MÉDICO Prescrevo tratamento ao paciente Pedro Henrique Barbosa.",
+    {
+      "entities": [
+        [
+          52,
+          74,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RECEITUÁRIO MÉDICO Prescrevo tratamento ao paciente Pedro Henrique Barbosa.",
+    {
+      "entities": [
+        [
+          52,
+          74,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "CONSULTA Registro que Patrícia Ribeiro Martins realizou avaliação clínica nesta unidade.",
+    {
+      "entities": [
+        [
+          22,
+          46,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "CONSULTA Registro que Juliana Santos Oliveira realizou avaliação clínica nesta unidade.",
+    {
+      "entities": [
+        [
+          22,
+          45,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Confirmo que o(a) paciente Ana Paula Costa passou por consulta médica.",
+    {
+      "entities": [
+        [
+          38,
+          53,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RECEITUÁRIO MÉDICO Prescrevo tratamento ao paciente Anderson Bispo dos Santos.",
+    {
+      "entities": [
+        [
+          52,
+          77,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Informo que Sofia Raimunda Costa foi examinado(a) em nossa clínica.",
+    {
+      "entities": [
+        [
+          29,
+          49,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "CONSULTA Registro que Maria Souza realizou avaliação clínica nesta unidade.",
+    {
+      "entities": [
+        [
+          22,
+          33,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Informo que Vitória Brenda Lustosa Silva foi examinado(a) em nossa clínica.",
+    {
+      "entities": [
+        [
+          29,
+          57,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Confirmo que o(a) paciente Daniel Souza Lima passou por consulta médica.",
+    {
+      "entities": [
+        [
+          38,
+          55,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RELATÓRIO MÉDICO Informo que Ana Paula Costa foi examinado(a) em nossa clínica.",
+    {
+      "entities": [
+        [
+          29,
+          44,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ENCAMINHAMENTO Encaminho o(a) paciente Juliana Santos Oliveira para acompanhamento médico.",
+    {
+      "entities": [
+        [
+          39,
+          62,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "ATESTADO MÉDICO Declaro que Yara Lustosa dos Santos esteve em consulta e necessita repouso.",
+    {
+      "entities": [
+        [
+          28,
+          51,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DECLARAÇÃO Confirmo que o(a) paciente Patrícia Ribeiro Martins passou por consulta médica.",
+    {
+      "entities": [
+        [
+          38,
+          62,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ],
+  [
+    "RECEITUÁRIO MÉDICO Prescrevo tratamento ao paciente Patrícia Ribeiro Martins.",
+    {
+      "entities": [
+        [
+          52,
+          76,
+          "NOME_PACIENTE"
+        ]
+      ]
+    }
+  ]
+]

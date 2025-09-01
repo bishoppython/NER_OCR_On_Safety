@@ -109,7 +109,7 @@ def validar_nome_paciente(nome):
 
 # Carregar todos os modelos treinados individualmente por entidade
 modelos = {
-    "CID": spacy.load("modelo_treinado_CID/model-last"),
+    "CID": spacy.load("modelo_NER_CID/model-last"),
     "NOME_PACIENTE": spacy.load("modelo_NER_NOME_PACIENTE"),
     "DATA": spacy.load("modelo_NER_DATA/model-last"),   
     "TIPO_DOC": spacy.load("modelo_NER_DOCUMENTO/model-last"),
